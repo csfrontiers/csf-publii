@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>CS Frontiers</title>
+    <link href="https://csfrontiers.github.io/csf-publii/feed.xml" rel="self" />
+    <link href="https://csfrontiers.github.io/csf-publii" />
+    <updated>2023-01-26T00:25:29-06:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://csfrontiers.github.io/csf-publii</id>
+
+    <entry>
+        <title>Tools</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.github.io/csf-publii/tools.html"/>
+        <id>https://csfrontiers.github.io/csf-publii/tools.html</id>
+
+        <updated>2023-01-26T00:25:29-06:00</updated>
+            <summary>
+                <![CDATA[
+                    NetsBlox NetsBlox is an open-source web- and cloud-based visual programming environment. Its visual notation is based on Scratch from MIT&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1gnmbil0h1f4">NetsBlox</a>
+<ul>
+<li><a href="#mcetoc_1gnmbil0h1f5">NetsBlox Editor</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1gnmbil0h1f6">PhoneIoT</a>
+<ul>
+<li><a href="#mcetoc_1gnmbil0h1f7">Getting Started with PhoneIoT</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1gnmbil0h1f4">NetsBlox</h2>
+<figure class="post__image"><img loading="lazy"  src="https://csfrontiers.github.io/csf-publii/media/posts/4/netsblox-logo.svg" alt="" width="128" height="128"></figure>
+<p>NetsBlox is an open-source web- and cloud-based visual programming environment. Its visual notation is based on Scratch from MIT and uses the open source JavaScript code base of Snap! from Berkeley. Both of these are extremely successful tools in K12 computer science education. NetsBlox adds the capability of networking and enables distributed programming at a level accessible to young learners. This helps teach 21st century skills and makes programming more engaging.</p>
+<p>NetsBlox also enables programs running on separate computers to talk to each other. Hence, students can write multi-player games such as Tic Tac Toe or Battleship and other truly distributed programs. NetsBlox supports collaborative program editing similar to how Google Docs work. This opens up new ways of project-based learning, new ways of teaching, as well as enables pair programming even when students are not sitting at the same table. Unlimited undo/redo is also supported.</p>
+<p>NetsBlox opens up the internet with its vast array of public domain scientific and other data sources making it possible to create STEM projects such as displaying seismic activity anywhere on Earth using an interactive Google Maps background. Similarly, weather, air pollution, and many other data sources such as the Open Movie Database and the Sloan Digital Sky Server are available. We are adding new services on a regular basis. The same facility can help implement more complicated multi-player games by providing server-side support.</p>
+<figure class="post__image"><a href="https://netsblox.org/" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://csfrontiers.github.io/csf-publii/media/posts/4/netsblox-home.png" alt="" width="640" height="475" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/netsblox-home-xs.png 384w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/netsblox-home-sm.png 600w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/netsblox-home-md.png 768w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/netsblox-home-lg.png 1200w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/netsblox-home-xl.png 1600w"></figure></a></p>
+<h3 id="mcetoc_1gnmbil0h1f5">NetsBlox Editor</h3>
+<p>If you prefer a more hands-on learning experience, there is plenty of information built into the <a href="https://editor.netsblox.org" target="_blank" rel="noopener">NetsBlox editor</a> to introduce you to some of the new features it has added to Snap! Drag and drop any block from the left menu into the center; you can click on any block to execute it individually, or connect them together to perform complex logic. One of the primary focuses of NetsBlox is the <strong>Network</strong> tab in the upper left corner, which has many advanced blocks for performing complex internet exchanges in a way that is still extremely simple. If you're ever unsure of how to use a block, you can right click it and select <strong>help...</strong> for more information. You can also view the official <a href="https://editor.netsblox.org/docs/" target="_blank" rel="noopener noreferrer">NetsBlox documentation</a> for more detailed information about how to use certain services/RPCs, as well as some general information and walkthroughs.</p>
+<p>Check out <a href="https://csfrontiers.github.io/csf-publii/demos.html">Demos</a> for some example videos using NetsBlox!</p>
+<hr>
+<h2 id="mcetoc_1gnmbil0h1f6">PhoneIoT</h2>
+<figure class="post__image"><img loading="lazy"  src="https://csfrontiers.github.io/csf-publii/media/posts/4/phoneiot-logo-512-2.png" alt="" width="128" height="128" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-logo-512-2-xs.png 384w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-logo-512-2-sm.png 600w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-logo-512-2-md.png 768w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-logo-512-2-lg.png 1200w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-logo-512-2-xl.png 1600w"></figure>
+<p>PhoneIoT is an open-source mobile app for iOS and Android which can be used to connect the device to NetsBlox. Once connected, a NetsBlox service of the same name can be used to communicate back and forth between the mobile device and a student's NetsBlox project running in the browser. The PhoneIoT service allows access to many of the device's sensors (e.g., accelerometer, orientation, location, camera), as well as the ability to customize the app's display with interactive components such as buttons, image displays, joysticks, and more, all from within NetsBlox. PhoneIoT uses the same RPC and message passing paradigms used by other NetsBlox services, making PhoneIoT relatively easy to pick up for students who are already familiar with NetsBlox.</p>
+<figure class="post__image"><img loading="lazy"  src="https://csfrontiers.github.io/csf-publii/media/posts/4/phoneiot-play-store.png" alt="" width="500" height="396" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-play-store-xs.png 384w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-play-store-sm.png 600w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-play-store-md.png 768w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-play-store-lg.png 1200w ,https://csfrontiers.github.io/csf-publii/media/posts/4/responsive/phoneiot-play-store-xl.png 1600w"></figure>
+<h3 id="mcetoc_1gnmbil0h1f7">Getting Started with PhoneIoT</h3>
+<p>To get started, simply install the PhoneIoT app on your mobile device, which is available free of charge through the App Store (iOS) or Google Play store (Android). Once installed, launch the app; you should see an open menu on the left side of the screen. Notably, near the top of the menu, there is an area that shows your device id and password (default zero), which will be needed to connect to the device from a NetsBlox project. To connect the device to the NetsBlox server, simple press the <strong>Connect</strong> button (all defaults are acceptable).</p>
+<p>Once in a NetsBlox project, you can use <strong>call</strong> or <strong>run</strong> blocks with the PhoneIoT service (first dropdown) to invoke any number of RPCs (remote procedure calls) (second dropdown) to communicate with the device. Most PhoneIoT RPCs require a device id, which you can get from the app's menu. However, before you can access the phone, you need to run a special RPC called <a href="https://editor.netsblox.org/docs/services/PhoneIoT/index.html#PhoneIoT.setCredentials">PhoneIoT.setCredentials</a>, which is where you enter your device password (shown in the app menu). The <a href="https://editor.netsblox.org/docs/services/PhoneIoT/index.html">PhoneIoT documentation</a> has more detailed information on general usage and specific RPCs that you might want to use.</p>
+<p>Check out <a href="https://csfrontiers.github.io/csf-publii/demos.html">Demos</a> for some example videos using PhoneIoT!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Publications</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.github.io/csf-publii/publications.html"/>
+        <id>https://csfrontiers.github.io/csf-publii/publications.html</id>
+
+        <updated>2023-01-25T21:53:46-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Shuchi Grover, Veronica Catete, Tiffany Barnes, Marnie Hill, Akos Ledeczi, Brian Broll. FIRST Principles to Design for Online, Synchronous High&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>Shuchi Grover, Veronica Catete, Tiffany Barnes, Marnie Hill, Akos Ledeczi, Brian Broll. FIRST Principles to Design for Online, Synchronous High School CS Teacher Training and Curriculum Co-Design. Koli Calling '20: 20th Koli Calling International Conference on Computing Education Research, Koli, Finland, November 19-22, 2020. <a href="https://csfrontiers.github.io/csf-publii/media/files/first-principles.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
+<li>Brian Broll, Akos Ledeczi, Gordon Stein, Devin Jean, Corey Brady, Shuchi Grover, Veronica Catete, Tiffany Barnes. Removing the Walls Around Visual Educational Programming Environments. IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), St Louis, Missouri, October 10-13, 2021. <a href="https://csfrontiers.github.io/csf-publii/media/files/removing-walls.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
+<li>Gordon Stein and Akos Ledeczi. Enabling Collaborative Distance Robotics Education for Novice Programmers. IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), St Louis, Missouri, October 10-13, 2021. <a href="https://csfrontiers.github.io/csf-publii/media/files/collab-dist-robots.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
+<li>Devin Jean, Brian Broll, Gordon Stein, Akos Ledeczi. Your Phone as a Sensor: Making IoT Accessible for Novice Programmers. Frontiers in Education (FIE), Lincoln, Nebraska, October 13-16, 2021. <a href="https://csfrontiers.github.io/csf-publii/media/files/accessible-iot.pdf" target="_blank" rel="noopener noreferrer">[pdf]</a></li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Demos</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.github.io/csf-publii/demos.html"/>
+        <id>https://csfrontiers.github.io/csf-publii/demos.html</id>
+
+        <updated>2023-01-25T21:48:28-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Introduction to NetsBlox Akos Ledeczi A brief introduction to NetsBlox, including a look at some recent additions. NetsBlox is a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1gnm1a653l2">Introduction to NetsBlox</a></li>
+<li><a href="#mcetoc_1gnm1a653l4">NetsBlox: Block-Based Distributed Programming</a></li>
+<li><a href="#mcetoc_1gnm2tttb18j">Introduction to PhoneIoT</a></li>
+<li><a href="#mcetoc_1gnm2tttb18k">GPS Tracker Project using PhoneIoT</a></li>
+<li><a href="#mcetoc_1gnm2tttb18l">Snap!Con 2020: Exploring Climate Change with Programming Projects</a></li>
+<li><a href="#mcetoc_1gnm2tttb18m">Snap!Con 2020: Build Your Own (Data) Services in NetsBlox</a></li>
+<li><a href="#mcetoc_1gnm2tttb18n">Snap!Con 2021: NetsBlox: Bringing the Full Power of the Internet to Snap!</a></li>
+<li><a href="#mcetoc_1gnm2tttb18o">Koli Calling 2020 Keynote Teaching frontiers of CS in secondary school</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1gnm1a653l2">Introduction to NetsBlox</h2>
+<p style="text-align: center;"><strong>Akos Ledeczi</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Iq86M0boVLg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">A brief introduction to NetsBlox, including a look at some recent additions. NetsBlox is a block-based programming environment that opens up the internet to novice programmers, supporting distributed computation, computer networking, robotics, cybersecurity, the Internet of Things, and many more. As a recent development, your program can even access your phone's sensors and turn it into a game controller.</p>
+<hr>
+<h2 id="mcetoc_1gnm1a653l4">NetsBlox: Block-Based Distributed Programming</h2>
+<p style="text-align: center;"><strong>Brian Broll</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://player.vimeo.com/video/265612936?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">A brief introduction to NetsBlox, an open-source extension for Snap!, which demonstrates some of the powerful networking and query tools that are available to students. In this talk, we demonstrate how some of these tools could be used to grab images from Google Maps, complete with panning and zooming, collect and display animated solar eclipse data, read and plot historical earthquake data, and displaying images pulled from the IMDB database. <a href="https://csfrontiers.github.io/csf-publii/media/files/netsblox-flyer.pdf" target="_blank" rel="noopener noreferrer">View Flyer</a></p>
+<hr>
+<h2 id="mcetoc_1gnm2tttb18j">Introduction to PhoneIoT</h2>
+<p style="text-align: center;"><strong>Devin Jean</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-uGtzpJfBEk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">A brief introduction to PhoneIoT, which is a free and open-source mobile app for Android and iOS that allows students to connect to their phones from NetsBlox. Once connected, students can read live sensor data such as the accelerometer, gyroscope, location sensor, camera, and more depending on the model of phone. Some restrictions are imposed on sensors (e.g., the camera) to ensure the app is safe for minors to use over the internet. This video serves as an overview of PhoneIoT's main capabilities and some real example projects that students can complete using our curriculum.</p>
+<hr>
+<h2 id="mcetoc_1gnm2tttb18k">GPS Tracker Project using PhoneIoT</h2>
+<p style="text-align: center;"><strong>Devin Jean</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/kTtO7iuRQWI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">This video serves as a walkthrough for one of the projects in our IoT curriculum, which has students use NetsBlox and PhoneIoT to create a GPS Tracker that gathers live location data from your phone and uses it to plot your course on a map via the <a href="https://editor.netsblox.org/docs/services/GoogleMaps/index.html" target="_blank" rel="noopener">GoogleMaps</a> service in NetsBlox. The project also includes interactive controls on the phone's display, including start/stop buttons, an output showing the approximate total distance traveled, and an image display which we use to mirror the NetsBlox stage on the phone. You can also try out the <a href="https://editor.netsblox.org/?action=present&amp;Username=devinjean&amp;ProjectName=gps-tracker-simple&amp;noRun&amp;editMode" target="_blank" rel="noopener">completed project</a>, but keep in mind you will need to change the device ID and password to your own device's credentials in order for it to work.</p>
+<hr>
+<h2 id="mcetoc_1gnm2tttb18l">Snap!Con 2020: Exploring Climate Change with Programming Projects</h2>
+<p style="text-align: center;"><strong>Akos Ledeczi, Corey Brady, and Brian Broll</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SN_DZANWJ0E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">In this short talk, we present the results of a multi-disciplinary collaboration between earth scientists, education researchers and computer scientists, including undergraduate and graduate students and faculty. The goal of the project was to design a set of curricular components that teach about climate change and computational thinking in a synergistic manner. We utilized a Snap! extension called NetsBlox. NetsBlox is an open source, browser-based visual programming environment and corresponding cloud-infrastructure that integrates distributed programming capabilities at a level accessible for novice programmers. One of the new abstractions, Remote Procedure Calls (RPCs) provide students' programs access to online services and data sources including Google Maps, weather, NOAA climate change data, and others, as well as services created by the end-user community and hosted on the NetsBlox server. RPCs enable students to create engaging and motivating projects grounded in real-world applications.</p>
+<hr>
+<h2 id="mcetoc_1gnm2tttb18m">Snap!Con 2020: Build Your Own (Data) Services in NetsBlox</h2>
+<p style="text-align: center;"><strong>Brian Broll, Corey Brady, and Akos Ledeczi</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7LH3aeHYlSg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">In this workshop, we will present how data services can be created in NetsBlox. First, we will start with a brief introduction to NetsBlox. Next, we will show what kinds of data service are possible, through a few examples. Then, we'll work with participants to create their own data services. Next, we will show how NetsBlox determines intelligent default configuration options based on the contents of the dataset (as a CSV file). Finally, we will explore options for customizing the data service (by editing the generated configuration), ranging from the help messages to the implementations of the individual remote procedure calls (RPCs).</p>
+<hr>
+<h2 id="mcetoc_1gnm2tttb18n">Snap!Con 2021: NetsBlox: Bringing the Full Power of the Internet to Snap!</h2>
+<p style="text-align: center;"><strong>Akos Ledeczi and Brian Broll</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/CLd-OK00vgc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">In this talk we will present an overview of NetsBlox as well as some of the newest features including:</p>
+<ul>
+<li>Accessing your phone's sensors from your project and placing interactive GUI elements on the screen. This enables applications like 1) an exercise tracker showing your route on a map and displaying the distance covered and your speed or 2) turning your phone into a remote sprite controller.</li>
+<li>A Virtual Reality environment where students get virtual robots that they can control with their NetsBlox programs. They can collaborate on tasks in this shared world or compete against each other.</li>
+<li>Create and deploy your own Alexa skill while writing it entirely in NetsBlox.</li>
+<li>Create a suite of auto-graded assignments within NetsBlox itself.</li>
+<li>Make your own data available to any other user of NetsBlox anywhere in the world instantly.</li>
+</ul>
+<hr>
+<h2 id="mcetoc_1gnm2tttb18o">Koli Calling 2020 Keynote Teaching frontiers of CS in secondary school</h2>
+<p style="text-align: center;"><strong>Shuchi Grover</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Wipm1udPlTU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p style="margin-top: 0;">Teaching frontiers of CS in secondary school: gender equity, data science, transdisciplinary learning, and teacher professional development. In this keynote address, Dr. Shuchi Grover presents work on an NSF-funded project, 'Beyond CS Principles: Engaging Female High School Students in New Frontiers of Computing', a collaboration between Vanderbilt University, North Carolina State University and Looking Glass Ventures, CA. The keynote ends with a discussion of the Koli Calling 2020 paper: 'FIRST Principles to Design for Online, Synchronous High School CS Teacher Training and Curriculum Co-Design' by Shuchi Grover, Veronica Catete, Tiffany Barnes, Marnie Hill, Akos Ledeczi, and Brian Broll. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CS Frontiers</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.github.io/csf-publii/cs-frontiers.html"/>
+        <id>https://csfrontiers.github.io/csf-publii/cs-frontiers.html</id>
+
+        <updated>2023-01-25T20:00:29-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Goals Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Goals</h2>
+<p>Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand access, especially for high school girls, to the most exciting and emerging frontiers of computing, such as distributed computation, the internet of things (IoT), cybersecurity, and machine learning, as well as other 21st century skills required to productively leverage computational methods and tools in virtually every profession. Creating pathways that stimulate high school learners' interest in advanced topics with the goal of building a diverse, gender-balanced, future-ready workforce is a crucial and impactful imperative addressed in this work. An experienced multi-disciplinary team of researchers, high school teachers, and industry partners will be involved in the design of a new, modular, open-access curriculum called Computer Science Frontiers (CSF) that provides an engaging introduction to these advanced topics in high school (that are currently accessible only to CS majors in college). To address the dire gender disparity in computing, the project will design and research the curriculum to engage female students. Through studying the impact of innovative computing tools and curricular units on learning, attitudes, interests, and collaboration of students (and especially young women), the project will advance discovery and understanding to aid the cause of broadening participation in technology-related careers as well as the future of work at the human-technology frontier. The open access modular design of the curricular materials and the dissemination activities will ensure wide adoption of the products of this research.</p>
+<p>The project leverages <a href="https://netsblox.org/" target="_blank" rel="noopener">NetsBlox</a>, a powerful yet easy-to-use visual programming environment that has been shown to increase engagement and interest in computing. Additionally, NetsBlox supports effective collaboration while facilitating learning of distributed computing, networking, and cybersecurity in informal settings. Early phases of the project will involve design and refinement of curricular modules through co-design workshops with seven participating teachers, summer camps with students, and pilot implementations in Tennessee and North Carolina, leading to full classroom implementations in Year 3 by the high school teachers. Data collected through surveys, student portfolios, teacher interviews, and digital logs from NetsBlox will be analyzed. Research findings will help in understanding if and how advanced computing methods alongside key competencies can be introduced in high school; how pedagogies involving project-based activities around real-world, multidisciplinary problems work to increase female students' interests in computing; and which advanced topics work better than others in terms of difficulty level and engagement.</p>
+<p>This project is funded by the Innovative Technology Experiences for Students and Teachers (ITEST) program of the National Science Foundation, which supports projects that build understandings of practices, program elements, contexts and processes contributing to increasing students' knowledge and interest in science, technology, engineering, and mathematics (STEM) and information and communication technology (ICT) careers.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
