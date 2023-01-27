@@ -3,7 +3,7 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.github.io/csf-publii/feed.xml" rel="self" />
     <link href="https://csfrontiers.github.io/csf-publii" />
-    <updated>2023-01-26T17:00:18-06:00</updated>
+    <updated>2023-01-27T11:53:58-06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -1475,15 +1475,18 @@
         <link href="https://csfrontiers.github.io/csf-publii/cs-frontiers.html"/>
         <id>https://csfrontiers.github.io/csf-publii/cs-frontiers.html</id>
 
-        <updated>2023-01-26T01:33:20-06:00</updated>
+        <updated>2023-01-27T11:53:58-06:00</updated>
             <summary>
                 <![CDATA[
-                    Read and process information from online databases across the world. This project plots data for new COVID-19 cases and deaths&hellip;
+                    Goals Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+                <figure class="post__image"><img loading="lazy"  style="background-color: #afaad1; padding: 20px; border-radius: 40px;" src="https://csfrontiers.github.io/csf-publii/media/posts/1/CSF-4096.png" alt="" width="225" height="225" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.github.io/csf-publii/media/posts/1/responsive/CSF-4096-xs.png 384w ,https://csfrontiers.github.io/csf-publii/media/posts/1/responsive/CSF-4096-sm.png 600w ,https://csfrontiers.github.io/csf-publii/media/posts/1/responsive/CSF-4096-md.png 768w ,https://csfrontiers.github.io/csf-publii/media/posts/1/responsive/CSF-4096-lg.png 1200w ,https://csfrontiers.github.io/csf-publii/media/posts/1/responsive/CSF-4096-xl.png 1600w"></figure>
+<h2>Goals</h2>
+<p>Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand access, especially for high school girls, to the most exciting and emerging frontiers of computing, such as distributed computation, the internet of things (IoT), cybersecurity, and machine learning, as well as other 21st century skills required to productively leverage computational methods and tools in virtually every profession. Creating pathways that stimulate high school learners' interest in advanced topics with the goal of building a diverse, gender-balanced, future-ready workforce is a crucial and impactful imperative addressed in this work. An experienced multi-disciplinary team of researchers, high school teachers, and industry partners will be involved in the design of a new, modular, open-access curriculum called Computer Science Frontiers (CSF) that provides an engaging introduction to these advanced topics in high school (that are currently accessible only to CS majors in college). To address the dire gender disparity in computing, the project will design and research the curriculum to engage female students. Through studying the impact of innovative computing tools and curricular units on learning, attitudes, interests, and collaboration of students (and especially young women), the project will advance discovery and understanding to aid the cause of broadening participation in technology-related careers as well as the future of work at the human-technology frontier. The open access modular design of the curricular materials and the dissemination activities will ensure wide adoption of the products of this research.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://csfrontiers.github.io/csf-publii/media/posts/1/gallery/screenshot-covid-cases.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.github.io/csf-publii/media/posts/1/gallery/screenshot-covid-cases-thumbnail.jpeg" alt="" width="768" height="366"></a>
 <figcaption>Read and process information from online databases across the world. This project plots data for new COVID-19 cases and deaths for any state.</figcaption>
 </figure>
@@ -1497,8 +1500,6 @@
 <figcaption>Leverage the power of Google Maps and various location services to create your own custom Google Street View interface.</figcaption>
 </figure>
 </div></div>
-<h2>Goals</h2>
-<p>Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand access, especially for high school girls, to the most exciting and emerging frontiers of computing, such as distributed computation, the internet of things (IoT), cybersecurity, and machine learning, as well as other 21st century skills required to productively leverage computational methods and tools in virtually every profession. Creating pathways that stimulate high school learners' interest in advanced topics with the goal of building a diverse, gender-balanced, future-ready workforce is a crucial and impactful imperative addressed in this work. An experienced multi-disciplinary team of researchers, high school teachers, and industry partners will be involved in the design of a new, modular, open-access curriculum called Computer Science Frontiers (CSF) that provides an engaging introduction to these advanced topics in high school (that are currently accessible only to CS majors in college). To address the dire gender disparity in computing, the project will design and research the curriculum to engage female students. Through studying the impact of innovative computing tools and curricular units on learning, attitudes, interests, and collaboration of students (and especially young women), the project will advance discovery and understanding to aid the cause of broadening participation in technology-related careers as well as the future of work at the human-technology frontier. The open access modular design of the curricular materials and the dissemination activities will ensure wide adoption of the products of this research.</p>
 <p>The project leverages <a href="https://netsblox.org/" target="_blank" rel="noopener">NetsBlox</a>, a powerful yet easy-to-use visual programming environment that has been shown to increase engagement and interest in computing. Additionally, NetsBlox supports effective collaboration while facilitating learning of distributed computing, networking, and cybersecurity in informal settings. Early phases of the project will involve design and refinement of curricular modules through co-design workshops with seven participating teachers, summer camps with students, and pilot implementations in Tennessee and North Carolina, leading to full classroom implementations in Year 3 by the high school teachers. Data collected through surveys, student portfolios, teacher interviews, and digital logs from NetsBlox will be analyzed. Research findings will help in understanding if and how advanced computing methods alongside key competencies can be introduced in high school; how pedagogies involving project-based activities around real-world, multidisciplinary problems work to increase female students' interests in computing; and which advanced topics work better than others in terms of difficulty level and engagement.</p>
 <p>This project is funded by the Innovative Technology Experiences for Students and Teachers (ITEST) program of the National Science Foundation, which supports projects that build understandings of practices, program elements, contexts and processes contributing to increasing students' knowledge and interest in science, technology, engineering, and mathematics (STEM) and information and communication technology (ICT) careers.</p>
 <h2>Affiliates</h2>
