@@ -3,7 +3,7 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.org/feed.xml" rel="self" />
     <link href="https://csfrontiers.org" />
-    <updated>2023-02-01T14:21:35-06:00</updated>
+    <updated>2023-02-07T10:39:45-06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -144,7 +144,7 @@
         <link href="https://csfrontiers.org/ai-and-machine-learning.html"/>
         <id>https://csfrontiers.org/ai-and-machine-learning.html</id>
 
-        <updated>2023-01-26T17:00:18-06:00</updated>
+        <updated>2023-02-07T10:37:52-06:00</updated>
             <summary>
                 <![CDATA[
                     Machine learning is a cutting-edge topic in industry and academia. We will be guided by the emergent AI4K12 framework that&hellip;
@@ -175,11 +175,24 @@
 <tbody>
 <tr>
 <td style="width: 20.1294%;">Estimated Duration</td>
-<td style="width: 79.8706%;">45 minutes – Intro to NetsBlox<br>45 minutes – Draw Square<br>45 minutes – Quilting &amp; Variables Activity<br>Total: 135 minutes (2 h, 15 min)</td>
+<td style="width: 79.8706%;">
+<ul>
+<li>45 minutes – Intro to NetsBlox</li>
+<li>45 minutes – Draw Square</li>
+<li>45 minutes – Quilting &amp; Variables Activity</li>
+<li>Total: 135 minutes (2 h, 15 min)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1294%;">Activities</td>
-<td style="width: 79.8706%;"><a rel="noreferrer noopener" href="https://login.netsblox.org/" target="_blank">Netsblox sign in (If using as stand-a-one course)</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/netsblox-intro.ppt" target="_blank" rel="noreferrer noopener">Intro/Refresher to Netsblox activity</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/quilting.ppt" target="_blank">Quilting Activity/Square</a></td>
+<td style="width: 79.8706%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://login.netsblox.org/" target="_blank">Netsblox sign in (If using as stand-a-one course)</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/netsblox-intro.ppt" target="_blank" rel="noreferrer noopener">Intro/Refresher to Netsblox activity</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/quilting.ppt" target="_blank">Quilting Activity/Square</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -190,7 +203,13 @@
 <tbody>
 <tr>
 <td style="width: 19.9794%;">Estimate Duration</td>
-<td style="width: 80.0206%;">60 Intro AI Slides &amp; Ranking AI<br>60 minutes AI &amp; Drawing <br>Total: 120 minutes (2 hours)</td>
+<td style="width: 80.0206%;">
+<ul>
+<li>60 Intro AI Slides &amp; Ranking AI</li>
+<li>60 minutes AI &amp; Drawing </li>
+<li>Total: 120 minutes (2 hours)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9794%;">Lesson Summary</td>
@@ -205,7 +224,8 @@
 </tr>
 <tr>
 <td style="width: 19.9794%;">Learning Objectives</td>
-<td style="width: 80.0206%;">Students will learn that:<br>
+<td style="width: 80.0206%;">
+<p>Students will learn that:</p>
 <ul>
 <li>Machines make decisions based on data provided to them</li>
 <li>Data contains the bias of the people who entered it</li>
@@ -215,15 +235,30 @@
 </tr>
 <tr>
 <td style="width: 19.9794%;">Vocabulary</td>
-<td style="width: 80.0206%;">Bias, Data, Model, Machine Learning, Algorithm, Artificial Intelligence (AI)</td>
+<td style="width: 80.0206%;">
+<p>Bias, Data, Model, Machine Learning, Algorithm, Artificial Intelligence (AI)</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9794%;">Activities</td>
-<td style="width: 80.0206%;"><a href="https://curriculum.netsblox.org/9-week/aiml/what-is-ai.ppt" target="_blank" rel="noreferrer noopener">What is AI?</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/aiml-intro.ppt" target="_blank" rel="noreferrer noopener">Intro to AI/ML</a></td>
+<td style="width: 80.0206%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/what-is-ai.ppt" target="_blank" rel="noreferrer noopener">What is AI?</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/aiml-intro.ppt" target="_blank" rel="noreferrer noopener">Intro to AI/ML</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9794%;">Resources</td>
-<td style="width: 80.0206%;"><a href="https://curriculum.netsblox.org/9-week/aiml/ai-drawing.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1BZmhQUU_bWntNLD3HA_GF70HAjtPH7wE/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">AI and Drawing Slides</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=X8v1GWzZYJ4" target="_blank">AI Experiments: Quick, Draw!</a> (video – duration 1:41)<br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=heQzqX35c9A" target="_blank">The Truth about Algorithms</a> (video – duration 2:39)<br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=59bMh59JQDo" target="_blank">Machine Learning and Human Bias</a> (video – duration 2:33)<br><a href="https://curriculum.netsblox.org/9-week/aiml/ai-drawing-guide.pdf" target="_blank" rel="noreferrer noopener">Teaching Guide</a></td>
+<td style="width: 80.0206%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/ai-drawing.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1BZmhQUU_bWntNLD3HA_GF70HAjtPH7wE/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">AI and Drawing Slides</a></li>
+<li><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=X8v1GWzZYJ4" target="_blank">AI Experiments: Quick, Draw!</a> (video – duration 1:41)</li>
+<li><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=heQzqX35c9A" target="_blank">The Truth about Algorithms</a> (video – duration 2:39)</li>
+<li><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=59bMh59JQDo" target="_blank">Machine Learning and Human Bias</a> (video – duration 2:33)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/ai-drawing-guide.pdf" target="_blank" rel="noreferrer noopener">Teaching Guide</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -234,15 +269,26 @@
 <tbody>
 <tr>
 <td style="width: 19.9727%;">Estimated Duration</td>
-<td style="width: 80.0273%;">20 minutes Searches Slides<br>20 minutes Intro to Breadth First Slides<br>120 minutes Exercises 1-4 BFS<br>80 minutes Exercises 5 &amp; 6<br>Total 4 hours</td>
+<td style="width: 80.0273%;">
+<ul>
+<li>20 minutes Searches Slides</li>
+<li>20 minutes Intro to Breadth First Slides</li>
+<li>120 minutes Exercises 1-4 BFS</li>
+<li>80 minutes Exercises 5 &amp; 6</li>
+<li>Total 4 hours</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9727%;">Lesson Summary</td>
-<td style="width: 80.0273%;">Students will learn about graph traversal methods and navigate through graphs that are representative of geographic maps and contact tracing through social networks.</td>
+<td style="width: 80.0273%;">
+<p>Students will learn about graph traversal methods and navigate through graphs that are representative of geographic maps and contact tracing through social networks.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9727%;">Learning Objectives</td>
-<td style="width: 80.0273%;">Students will be able to:<br>
+<td style="width: 80.0273%;">
+<p>Students will be able to:</p>
 <ul>
 <li>Understand what an algorithm is and how it works</li>
 <li>Learn how AI agents find the shortest path between two points</li>
@@ -252,15 +298,34 @@
 </tr>
 <tr>
 <td style="width: 19.9727%;">Vocabulary</td>
-<td style="width: 80.0273%;">Breadth First Search, Nodes, Paths, Branches, Graph, Tree, Traversal, Weights, Neighbors, Pruning, Algorithm, Shortest Path, Intelligence, Artificial Intelligence (AI)</td>
+<td style="width: 80.0273%;">
+<p>Breadth First Search, Nodes, Paths, Branches, Graph, Tree, Traversal, Weights, Neighbors, Pruning, Algorithm, Shortest Path, Intelligence, Artificial Intelligence (AI)</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9727%;">Activities</td>
-<td style="width: 80.0273%;">Breadth First Search – Social Network Analysis (Bita)<br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-1.nb" target="_blank" rel="noreferrer noopener">Exercise 1</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-2.nb" target="_blank" rel="noreferrer noopener">Exercise 2</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-3.nb" target="_blank" rel="noreferrer noopener">Exercise 3</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-4.nb" target="_blank" rel="noreferrer noopener">Exercise 4</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-5.nb" target="_blank" rel="noreferrer noopener">Exercise 5</a> (coding activity)<br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-6.nb" target="_blank" rel="noreferrer noopener">Exercise 6</a> (coding activity)</td>
+<td style="width: 80.0273%;">
+<ul>
+<li>Breadth First Search – Social Network Analysis (Bita)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-1.nb" target="_blank" rel="noreferrer noopener">Exercise 1</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-2.nb" target="_blank" rel="noreferrer noopener">Exercise 2</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-3.nb" target="_blank" rel="noreferrer noopener">Exercise 3</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-4.nb" target="_blank" rel="noreferrer noopener">Exercise 4</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-5.nb" target="_blank" rel="noreferrer noopener">Exercise 5</a> (coding activity)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs-ex-6.nb" target="_blank" rel="noreferrer noopener">Exercise 6</a> (coding activity)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9727%;">Resources</td>
-<td style="width: 80.0273%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/bfs-pacing.pdf" data-type="URL" data-id="https://docs.google.com/document/d/13sCh35iE2St2-Qt13Mtoodaj7lTbp0Tz/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Lesson Plan</a><br>Intro to Algorithms Slides Part 1 (Explanation of exercises, vocabulary, etc.)<br><a href="https://curriculum.netsblox.org/9-week/aiml/bfs.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1g7ZEcZogfn15Fo-YwqcFAUSZ09bolO-f/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides Part 2</a> (Review AI)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/ranking-ai.pdf" data-type="URL" data-id="https://drive.google.com/file/d/10faTi-uxhtn8wc-P3j1BDTINXlvdxJGJ/view?usp=sharing" target="_blank">Ranking AI</a> (questions for students)</td>
+<td style="width: 80.0273%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/bfs-pacing.pdf" data-type="URL" data-id="https://docs.google.com/document/d/13sCh35iE2St2-Qt13Mtoodaj7lTbp0Tz/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Lesson Plan</a></li>
+<li>Intro to Algorithms Slides Part 1 (Explanation of exercises, vocabulary, etc.)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bfs.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1g7ZEcZogfn15Fo-YwqcFAUSZ09bolO-f/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides Part 2</a> (Review AI)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/ranking-ai.pdf" data-type="URL" data-id="https://drive.google.com/file/d/10faTi-uxhtn8wc-P3j1BDTINXlvdxJGJ/view?usp=sharing" target="_blank">Ranking AI</a> (questions for students)</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -271,15 +336,25 @@
 <tbody>
 <tr>
 <td style="width: 19.8274%;">Estimated Duration</td>
-<td style="width: 80.1726%;">15 Machine Learning Current Event<br>45 Unplugged Activity/Game<br>60 Twitter Bot Activity<br>Total 2 hours</td>
+<td style="width: 80.1726%;">
+<ul>
+<li>15 Machine Learning Current Event</li>
+<li>45 Unplugged Activity/Game</li>
+<li>60 Twitter Bot Activity</li>
+<li>Total 2 hours</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8274%;">Lesson Summary</td>
-<td style="width: 80.1726%;">Following an introduction to the main three areas of machine learning (supervised, unsupervised, and reinforcement), students will have a more in-depth activity on a supervised learning technique: classification. Understanding that classification uses labeled data, students will learn how models classify humans and bots.</td>
+<td style="width: 80.1726%;">
+<p>Following an introduction to the main three areas of machine learning (supervised, unsupervised, and reinforcement), students will have a more in-depth activity on a supervised learning technique: classification. Understanding that classification uses labeled data, students will learn how models classify humans and bots.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8274%;">Learning Objectives</td>
-<td style="width: 80.1726%;">Students will:<br>
+<td style="width: 80.1726%;">
+<p>Students will:</p>
 <ul>
 <li>Understand the difference between AI and ML</li>
 <li>Learn how classification and misclassification and the labeling that affects how the model classifies</li>
@@ -288,19 +363,36 @@
 </tr>
 <tr>
 <td style="width: 19.8274%;">Vocabulary</td>
-<td style="width: 80.1726%;">Classification, Binary, Bot</td>
+<td style="width: 80.1726%;">
+<p>Classification, Binary, Bot</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8274%;">Activities</td>
-<td style="width: 80.1726%;">Introduction to Classification/Misclassification<br>NetsBlox/Unplugged Twitter Bot Classification</td>
+<td style="width: 80.1726%;">
+<ul>
+<li>Introduction to Classification/Misclassification</li>
+<li>NetsBlox/Unplugged Twitter Bot Classification</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8274%;">Student Resources</td>
-<td style="width: 80.1726%;"><a href="https://curriculum.netsblox.org/9-week/aiml/twitter-starter.nb" target="_blank" rel="noreferrer noopener">Twitter Classifier</a> (starter project)</td>
+<td style="width: 80.1726%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/twitter-starter.nb" target="_blank" rel="noreferrer noopener">Twitter Classifier</a> (starter project)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8274%;">Teacher Resources</td>
-<td style="width: 80.1726%;"><a href="https://curriculum.netsblox.org/9-week/aiml/twitter-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1w9yvpTsMl6N_fjvSo5oQMFk_bsqircz1/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/twitter.ppt" target="_blank">Twitter Bot Slides</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/twitter-guide.mp4" target="_blank" rel="noreferrer noopener">Instructional Video</a> (duration 13:23)</td>
+<td style="width: 80.1726%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/twitter-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1w9yvpTsMl6N_fjvSo5oQMFk_bsqircz1/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/aiml/twitter.ppt" target="_blank">Twitter Bot Slides</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/twitter-guide.mp4" target="_blank" rel="noreferrer noopener">Instructional Video</a> (duration 13:23)</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -311,15 +403,23 @@
 <tbody>
 <tr>
 <td style="width: 19.9723%;">Estimated Duration</td>
-<td style="width: 80.0277%;">120 minutes – Sentiment analysis <br>Total 2 hours</td>
+<td style="width: 80.0277%;">
+<ul>
+<li>120 minutes – Sentiment analysis </li>
+<li>Total 2 hours</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9723%;">Lesson Summary</td>
-<td style="width: 80.0277%;">In this lesson, students will learn about natural language programming as an AI application. Then they will apply sentiment analysis to two different forms of media (tweets and song lyrics).</td>
+<td style="width: 80.0277%;">
+<p>In this lesson, students will learn about natural language programming as an AI application. Then they will apply sentiment analysis to two different forms of media (tweets and song lyrics).</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9723%;">Learning Objectives</td>
-<td style="width: 80.0277%;">Students will:<br>
+<td style="width: 80.0277%;">
+<p>Students will:</p>
 <ul>
 <li>learn about sentiment analysis on natural language applications (i.e., music lyrics).</li>
 </ul>
@@ -327,19 +427,33 @@
 </tr>
 <tr>
 <td style="width: 19.9723%;">Vocabulary</td>
-<td style="width: 80.0277%;">Natural language; sentiment analysis; polarity; API</td>
+<td style="width: 80.0277%;">
+<p>Natural language; sentiment analysis; polarity; API</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9723%;">Activities</td>
-<td style="width: 80.0277%;">Introduction to NLP and Sentiment Analysis.<br>Twitter Sentiment Write (unplugged movies reviews). <br>Music (song lyrics) Sentiment using Genius API (NetsBlox/ view in python).</td>
+<td style="width: 80.0277%;">
+<p>Introduction to NLP and Sentiment Analysis.<br>Twitter Sentiment Write (unplugged movies reviews). <br>Music (song lyrics) Sentiment using Genius API (NetsBlox/ view in python).</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9723%;">Student Resources</td>
-<td style="width: 80.0277%;"><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=SentimentalWriterStarterCode&amp;editMode&amp;noRun" target="_blank" rel="noreferrer noopener">Sentiment Writer Starter Code</a></td>
+<td style="width: 80.0277%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=SentimentalWriterStarterCode&amp;editMode&amp;noRun" target="_blank" rel="noreferrer noopener">Sentiment Writer Starter Code</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9723%;">Teacher Resources</td>
-<td style="width: 80.0277%;"><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1hnjpWnm4GKxZLxZhIOgoHawRlomKjzRg/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Sentiment Writer Teaching Guide</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1_WTt7Pyb7bA7QCcCaIuj1FnYMJNHmNeX/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Sentiment Writer Slides</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-guide.mp4" target="_blank" rel="noreferrer noopener">Instructional Video</a> (duration 16:32)</td>
+<td style="width: 80.0277%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1hnjpWnm4GKxZLxZhIOgoHawRlomKjzRg/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Sentiment Writer Teaching Guide</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1_WTt7Pyb7bA7QCcCaIuj1FnYMJNHmNeX/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Sentiment Writer Slides</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-guide.mp4" target="_blank" rel="noreferrer noopener">Instructional Video</a> (duration 16:32)</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -350,15 +464,21 @@
 <tbody>
 <tr>
 <td style="width: 19.9717%;">Estimated Duration</td>
-<td style="width: 80.0283%;">120 minutes Project (Netsblox or Python) (up to 5 hours)</td>
+<td style="width: 80.0283%;">
+<p>120 minutes Project (Netsblox or Python) (up to 5 hours)</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Lesson Summary</td>
-<td style="width: 80.0283%;">The project teaches students about list comparisons, and they are tasked with finding “groups” of musicians (music sentiment) to compare to the sentiment analysis.<br>Note: This is also an opportunity to transition into talking about small datasets and how, although the results are interesting, they are NOT statistically significant.</td>
+<td style="width: 80.0283%;">
+<p>The project teaches students about list comparisons, and they are tasked with finding “groups” of musicians (music sentiment) to compare to the sentiment analysis.</p>
+<p>Note: This is also an opportunity to transition into talking about small datasets and how, although the results are interesting, they are NOT statistically significant.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Learning Objectives</td>
-<td style="width: 80.0283%;">Students will:<br>
+<td style="width: 80.0283%;">
+<p>Students will:</p>
 <ul>
 <li>learn about comparing sentiment analysis between different musicians (i.e., music lyrics)</li>
 <li>learn about formulating a research question and hypothesis</li>
@@ -368,15 +488,26 @@
 </tr>
 <tr>
 <td style="width: 19.9717%;">Vocabulary</td>
-<td style="width: 80.0283%;">List comparisons</td>
+<td style="width: 80.0283%;">
+<p>List comparisons</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Activities</td>
-<td style="width: 80.0283%;">Comparison of sentiments across groups (Netsblox/Python – user choice)</td>
+<td style="width: 80.0283%;">
+<p>Comparison of sentiments across groups (Netsblox/Python – user choice)</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Teacher Resources</td>
-<td style="width: 80.0283%;"><a href="https://curriculum.netsblox.org/9-week/aiml/music-completed.nb" target="_blank" rel="noreferrer noopener">Music Sentiment Analysis NetsBlox Activity</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/music-ext-completed.nb" target="_blank" rel="noreferrer noopener">NetsBlox Activity Extension</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/music.ppt" target="_blank" rel="noreferrer noopener">Student Instruction Slides</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-python-guide.pdf" target="_blank" rel="noopener noreferrer">Teaching guide - Python</a></td>
+<td style="width: 80.0283%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/music-completed.nb" target="_blank" rel="noreferrer noopener">Music Sentiment Analysis NetsBlox Activity</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/music-ext-completed.nb" target="_blank" rel="noreferrer noopener">NetsBlox Activity Extension</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/music.ppt" target="_blank" rel="noreferrer noopener">Student Instruction Slides</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/sentiment-python-guide.pdf" target="_blank" rel="noopener noreferrer">Teaching guide - Python</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -387,7 +518,17 @@
 <tbody>
 <tr>
 <td style="width: 19.8268%;">Estimated Duration</td>
-<td style="width: 80.1732%;">20 minutes (Introduction to Ethics)<br>30 minutes (Activity 1) <br>60 minutes  researching topic <br>60 minutes writing <br>30 minutes – presentation prep<br>100 minutes – oral presentation<br>Total 5 hours</td>
+<td style="width: 80.1732%;">
+<ul>
+<li>20 minutes (Introduction to Ethics)</li>
+<li>30 minutes (Activity 1) </li>
+<li>60 minutes  researching topic </li>
+<li>60 minutes writing </li>
+<li>30 minutes – presentation prep</li>
+<li>100 minutes – oral presentation</li>
+<li>Total 5 hours</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8268%;">Lesson Summary</td>
@@ -398,7 +539,8 @@
 </tr>
 <tr>
 <td style="width: 19.8268%;">Learning Objectives</td>
-<td style="width: 80.1732%;">Students will:<br>
+<td style="width: 80.1732%;">
+<p>Students will:</p>
 <ul>
 <li>study different ethical dilemmas in AI/ML</li>
 <li>observe the impacts of bias and learn how to mitigate it generally</li>
@@ -408,15 +550,26 @@
 </tr>
 <tr>
 <td style="width: 19.8268%;">Vocabulary</td>
-<td style="width: 80.1732%;">Fairness; Accountability; Transparency; Bias; Discrimination; Underrepresentation; Overrepresentation; bias mitigation; data augmentation</td>
+<td style="width: 80.1732%;">
+<p>Fairness; Accountability; Transparency; Bias; Discrimination; Underrepresentation; Overrepresentation; bias mitigation; data augmentation</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8268%;">Activities</td>
-<td style="width: 80.1732%;">Present on an ethical dilemma with a solution</td>
+<td style="width: 80.1732%;">
+<ul>
+<li>Present on an ethical dilemma with a solution</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.8268%;">Teacher Resources</td>
-<td style="width: 80.1732%;"><a href="https://curriculum.netsblox.org/9-week/aiml/ethics-1.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1ALuC2C3UGPFm_ecQRRd5Z9Ze2xQS3bkh/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Presentation on Ethics for Data Science &amp; Machine Learning</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/ethics-2.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1ff4iiBSsAcmrjhd5Al87RJHqm1-RTaQE/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Presentation on AI &amp; Ethics</a></td>
+<td style="width: 80.1732%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/ethics-1.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1ALuC2C3UGPFm_ecQRRd5Z9Ze2xQS3bkh/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Presentation on Ethics for Data Science &amp; Machine Learning</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/ethics-2.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1ff4iiBSsAcmrjhd5Al87RJHqm1-RTaQE/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Presentation on AI &amp; Ethics</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -427,15 +580,25 @@
 <tbody>
 <tr>
 <td style="width: 20.1143%;">Estimated Duration</td>
-<td style="width: 79.8857%;">10 Minutes (Introduction to Neural Networks)<br>20 minutes (Reasoning Problem Introduction)<br>15 Minutes (Imitation Learning Activity)<br>15 minutes (Reasoning Problems Activity)</td>
+<td style="width: 79.8857%;">
+<ul>
+<li>10 Minutes (Introduction to Neural Networks)</li>
+<li>20 minutes (Reasoning Problem Introduction)</li>
+<li>15 Minutes (Imitation Learning Activity)</li>
+<li>15 minutes (Reasoning Problems Activity)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1143%;">Lesson Summary</td>
-<td style="width: 79.8857%;">Students will learn about the internal structure of neural networks.<br>Students will learn how imitation learning works with the Learn to Catch NetsBlox Activity.</td>
+<td style="width: 79.8857%;">
+<p>Students will learn about the internal structure of neural networks.<br>Students will learn how imitation learning works with the Learn to Catch NetsBlox Activity.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1143%;">Learning Objectives</td>
-<td style="width: 79.8857%;">Students will:<br>
+<td style="width: 79.8857%;">
+<p>Students will:</p>
 <ul>
 <li>categorize real-world problems as classification, prediction, sequential decision problems, combinatorial search, heuristic search, adversarial search, logical deduction, or statistical inference.</li>
 <li>list an algorithm that could be used to solve each type of reasoning problem</li>
@@ -444,15 +607,28 @@
 </tr>
 <tr>
 <td style="width: 20.1143%;">Vocabulary</td>
-<td style="width: 79.8857%;">Neural networks; node layers; optimization function; sequential decision making; combinatorial search; heuristic search; adversarial search; logical deduction; statistical inference</td>
+<td style="width: 79.8857%;">
+<p>Neural networks; node layers; optimization function; sequential decision making; combinatorial search; heuristic search; adversarial search; logical deduction; statistical inference</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1143%;">Activities</td>
-<td style="width: 79.8857%;">Intro to Neural Network<br>Machine Learning Reasoning Crossword Puzzle<br>Find My Reason!</td>
+<td style="width: 79.8857%;">
+<ul>
+<li>Intro to Neural Network</li>
+<li>Machine Learning Reasoning Crossword Puzzle</li>
+<li>Find My Reason!</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1143%;">Teacher Resources</td>
-<td style="width: 79.8857%;"><a href="https://curriculum.netsblox.org/9-week/aiml/imitation-demo.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ImitationLearningLearnToCatch&amp;" target="_blank" rel="noreferrer noopener">Intro to Imitation Learning – NetsBlox Game</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/crossword.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1uL4iFZb08iPIdzVVJnClhU3sXqnr-O8g/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Machine Learning Reasoning Crossword Puzzle</a></td>
+<td style="width: 79.8857%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/imitation-demo.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ImitationLearningLearnToCatch&amp;" target="_blank" rel="noreferrer noopener">Intro to Imitation Learning – NetsBlox Game</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/crossword.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1uL4iFZb08iPIdzVVJnClhU3sXqnr-O8g/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Machine Learning Reasoning Crossword Puzzle</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -463,15 +639,25 @@
 <tbody>
 <tr>
 <td style="width: 19.97%;">Estimated Duration</td>
-<td style="width: 80.03%;">60 minutes (Activity 1)<br>30 minutes (Activity 2)<br>120 minutes (Activity 3) <br>Total 3.5 hours</td>
+<td style="width: 80.03%;">
+<ul>
+<li>60 minutes (Activity 1)</li>
+<li>30 minutes (Activity 2)</li>
+<li>120 minutes (Activity 3) </li>
+<li>Total 3.5 hours</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.97%;">Lesson Summary</td>
-<td style="width: 80.03%;">Students will learn about features and neural networks by working with the Tensorflow Playground. They will learn about how neural networks mimic the human mind. They will train a multilayer neural network using the backpropagation learning algorithm and describe how the weights of the neurons and the outputs of the hidden units change as a result of learning.</td>
+<td style="width: 80.03%;">
+<p>Students will learn about features and neural networks by working with the Tensorflow Playground. They will learn about how neural networks mimic the human mind. They will train a multilayer neural network using the backpropagation learning algorithm and describe how the weights of the neurons and the outputs of the hidden units change as a result of learning.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.97%;">Learning Objectives</td>
-<td style="width: 80.03%;">Students will:<br>
+<td style="width: 80.03%;">
+<p>Students will:</p>
 <ul>
 <li>be able to describe the following neural network architectures and their uses: feed-forward network, 2D convolutional network, recurrent network, generative adversarial network</li>
 </ul>
@@ -479,19 +665,37 @@
 </tr>
 <tr>
 <td style="width: 19.97%;">Vocabulary</td>
-<td style="width: 80.03%;">Features; weights; deep learning; backpropagation</td>
+<td style="width: 80.03%;">
+<p>Features; weights; deep learning; backpropagation</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.97%;">Activities</td>
-<td style="width: 80.03%;">TensorFlow Playground Activity<br>Square Root Predictions Machine Learning – Parsons Problem<br>Better Machine Learning</td>
+<td style="width: 80.03%;">
+<ul>
+<li>TensorFlow Playground Activity</li>
+<li>Square Root Predictions Machine Learning – Parsons Problem</li>
+<li>Better Machine Learning</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.97%;">Student Resources</td>
-<td style="width: 80.03%;"><a href="https://curriculum.netsblox.org/9-week/aiml/square-root-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=SquareRootPredictions%20&amp;editMode&amp;noRun" target="_blank" rel="noreferrer noopener">Square Root Predictions Parsons Problem</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/square-root-adv-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=BetterMachineLearning&amp;editMode&amp;noRun" target="_blank" rel="noreferrer noopener">Better Machine Learning Parsons Problem</a></td>
+<td style="width: 80.03%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/square-root-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=SquareRootPredictions%20&amp;editMode&amp;noRun" target="_blank" rel="noreferrer noopener">Square Root Predictions Parsons Problem</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/square-root-adv-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=BetterMachineLearning&amp;editMode&amp;noRun" target="_blank" rel="noreferrer noopener">Better Machine Learning Parsons Problem</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.97%;">Teacher Resources</td>
-<td style="width: 80.03%;">Deep Neural Network <a rel="noreferrer noopener" href="https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html" target="_blank">Teaching Guide</a><br>TensorFlow Playground <a href="https://curriculum.netsblox.org/9-week/aiml/tensorflow-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/15NQ0YEQz38tJyV7FhFxwCaFE9pdMZzPa/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a></td>
+<td style="width: 80.03%;">
+<ul>
+<li>Deep Neural Network <a rel="noreferrer noopener" href="https://ecraft2learn.github.io/ai/AI-Teacher-Guide/chapter-6.html" target="_blank">Teaching Guide</a></li>
+<li>TensorFlow Playground <a href="https://curriculum.netsblox.org/9-week/aiml/tensorflow-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/15NQ0YEQz38tJyV7FhFxwCaFE9pdMZzPa/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -502,15 +706,24 @@
 <tbody>
 <tr>
 <td style="width: 19.9717%;">Estimated Duration</td>
-<td style="width: 80.0283%;">120 minutes (AI &amp; Environment)<br>120 minutes (AI &amp; Criminal Justice)<br>Total 4 hours</td>
+<td style="width: 80.0283%;">
+<ul>
+<li>120 minutes (AI &amp; Environment)</li>
+<li>120 minutes (AI &amp; Criminal Justice)</li>
+<li>Total 4 hours</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Lesson Summary</td>
-<td style="width: 80.0283%;">Students will learn about real-world application of AI and ML in three domains: the arts, environment, and criminal justice system.</td>
+<td style="width: 80.0283%;">
+<p>Students will learn about real-world application of AI and ML in three domains: the arts, environment, and criminal justice system.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Learning Objectives</td>
-<td style="width: 80.0283%;">Students will:<br>
+<td style="width: 80.0283%;">
+<p>Students will:</p>
 <ul>
 <li>gain an understanding of how previous concepts are actualized in applications</li>
 <li>see examples of computer science intersecting with other domains that may not seem intuitive</li>
@@ -519,15 +732,43 @@
 </tr>
 <tr>
 <td style="width: 19.9717%;">Vocabulary</td>
-<td style="width: 80.0283%;">Computer vision, pixel, metadata, processor, GPU</td>
+<td style="width: 80.0283%;">
+<p>Computer vision, pixel, metadata, processor, GPU</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Activities</td>
-<td style="width: 80.0283%;"><a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noreferrer noopener">Environment: Teachable Machine</a><br><a href="http://students.washington.edu/yreg/learnmydata/#stage" target="_blank" rel="noreferrer noopener">Criminal Justice: Linear Regression</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/bias-crime-law.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1zCLc-B8YyYXXUozVKNFs2gVc89EoeGFh/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Criminal Justice: COMPAS Sentencing</a> (slide 31)</td>
+<td style="width: 80.0283%;">
+<ul>
+<li><a href="https://teachablemachine.withgoogle.com/" target="_blank" rel="noreferrer noopener">Environment: Teachable Machine</a></li>
+<li><a href="http://students.washington.edu/yreg/learnmydata/#stage" target="_blank" rel="noreferrer noopener">Criminal Justice: Linear Regression</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bias-crime-law.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1zCLc-B8YyYXXUozVKNFs2gVc89EoeGFh/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Criminal Justice: COMPAS Sentencing</a> (slide 31)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9717%;">Resources</td>
-<td style="width: 80.0283%;">AI &amp; Environment:<br><a href="https://curriculum.netsblox.org/9-week/aiml/env.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1o63V1Qsu_ckcFb1PJfV0lsCWnsqjZ97J/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/env-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1Z13imuGwkBUT6c4sc8dseV6LOvZyqAhL/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=qKgRbkCkRFY&amp;t=2s" target="_blank">Wildlife Insights: Saving Biodiversity with Tech and AI</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=TLw_I1ghvLM&amp;t=11s" target="_blank">Running Wild for Nature Conservation</a><br><a rel="noreferrer noopener" href="https://forms.gle/XKH7Z4ZyA1DgitAh9" data-type="URL" data-id="https://forms.gle/XKH7Z4ZyA1DgitAh9" target="_blank">Questions to accompany the previous videos</a> (recommended to copy the questions into a new Google form, paper quiz, etc.)<br><br>AI &amp; Criminal Justice:<br><a href="https://curriculum.netsblox.org/9-week/aiml/bias-crime-law.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1zCLc-B8YyYXXUozVKNFs2gVc89EoeGFh/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides</a><br><a href="https://curriculum.netsblox.org/9-week/aiml/bias-crime-law-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1u-Oh-ZR-CLHCaNAMUBy_zRE4AS2IuZDt/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a><br><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=ZMsSc_utZ40&amp;t=2s" target="_blank">How AI Could Reinforce Biases In The Criminal Justice System</a><br><a rel="noreferrer noopener" href="https://forms.gle/b5Gg9Z9PbFwVDVB96" data-type="URL" data-id="https://forms.gle/b5Gg9Z9PbFwVDVB96" target="_blank">Questions to accompany the video</a> (recommended to copy the questions into a new Google form, paper quiz, etc.)</td>
+<td style="width: 80.0283%;">
+<ul>
+<li>AI &amp; Environment:
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/env.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1o63V1Qsu_ckcFb1PJfV0lsCWnsqjZ97J/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/env-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1Z13imuGwkBUT6c4sc8dseV6LOvZyqAhL/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=qKgRbkCkRFY&amp;t=2s" target="_blank">Wildlife Insights: Saving Biodiversity with Tech and AI</a></li>
+<li><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=TLw_I1ghvLM&amp;t=11s" target="_blank">Running Wild for Nature Conservation</a></li>
+<li><a rel="noreferrer noopener" href="https://forms.gle/XKH7Z4ZyA1DgitAh9" data-type="URL" data-id="https://forms.gle/XKH7Z4ZyA1DgitAh9" target="_blank">Questions to accompany the previous videos</a> (recommended to copy the questions into a new Google form, paper quiz, etc.)</li>
+</ul>
+</li>
+<li>AI &amp; Criminal Justice:
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bias-crime-law.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1zCLc-B8YyYXXUozVKNFs2gVc89EoeGFh/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/aiml/bias-crime-law-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1u-Oh-ZR-CLHCaNAMUBy_zRE4AS2IuZDt/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Teaching Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=ZMsSc_utZ40&amp;t=2s" target="_blank">How AI Could Reinforce Biases In The Criminal Justice System</a></li>
+<li><a rel="noreferrer noopener" href="https://forms.gle/b5Gg9Z9PbFwVDVB96" data-type="URL" data-id="https://forms.gle/b5Gg9Z9PbFwVDVB96" target="_blank">Questions to accompany the video</a> (recommended to copy the questions into a new Google form, paper quiz, etc.)</li>
+</ul>
+</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -543,7 +784,7 @@
         <link href="https://csfrontiers.org/iot-and-cybersecurity.html"/>
         <id>https://csfrontiers.org/iot-and-cybersecurity.html</id>
 
-        <updated>2023-01-26T16:04:42-06:00</updated>
+        <updated>2023-02-07T10:34:28-06:00</updated>
             <summary>
                 <![CDATA[
                     As more and more devices are connected to the internet, Internet of Things (IoT) has become a pervasive trend in&hellip;
@@ -567,19 +808,24 @@
 </ul>
 </div>
 <h2 id="unit1">Unit 1: Introduction to the Internet of Things (IoT)</h2>
-<table style="width: 100%;">
+<table style="width: 100%; height: 1153.7px;">
 <tbody>
-<tr>
-<td style="width: 19.6864%;">Estimated time</td>
-<td style="width: 80.3136%;">45 minutes x 5 days</td>
+<tr style="height: 79.1562px;">
+<td style="width: 19.6864%; height: 79.1562px;">Estimated time</td>
+<td style="width: 80.3136%; height: 79.1562px;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
-<tr>
-<td style="width: 19.6864%;">Lesson summary</td>
-<td style="width: 80.3136%;">Students will learn about the Internet of Things (IoT), which refers to physical objects (or groups of such objects) that are equipped with sensors, processing ability, software, and other technologies in order to be able to connect to and exchange data with other devices and systems. This flow of data can occur either over the Internet or by using other communications networks. Thingspeak, an IoT analytics platform provided by Mathworks, is one particular method for accessing the data being collected by these IoT devices and will be the focus of this lesson.</td>
+<tr style="height: 309.531px;">
+<td style="width: 19.6864%; height: 309.531px;">Lesson summary</td>
+<td style="width: 80.3136%; height: 309.531px;">
+<p>Students will learn about the Internet of Things (IoT), which refers to physical objects (or groups of such objects) that are equipped with sensors, processing ability, software, and other technologies in order to be able to connect to and exchange data with other devices and systems. This flow of data can occur either over the Internet or by using other communications networks. Thingspeak, an IoT analytics platform provided by Mathworks, is one particular method for accessing the data being collected by these IoT devices and will be the focus of this lesson.</p>
+</td>
 </tr>
-<tr>
-<td style="width: 19.6864%;">Learning objectives</td>
-<td style="width: 80.3136%;">The students will be able to:<br>
+<tr style="height: 280.734px;">
+<td style="width: 19.6864%; height: 280.734px;">Learning objectives</td>
+<td style="width: 80.3136%; height: 280.734px;">
+<p>The students will be able to:</p>
 <ul>
 <li>Access Remote Procedure Calls (RPC’s) for ThingSpeak sensors</li>
 <li>Create a complementary pair of applications taking advantage of ThingSpeak</li>
@@ -587,17 +833,34 @@
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 19.6864%;">Vocabulary</td>
-<td style="width: 80.3136%;">IoT, sensors, RPC’s</td>
+<tr style="height: 79.1562px;">
+<td style="width: 19.6864%; height: 79.1562px;">Vocabulary</td>
+<td style="width: 80.3136%; height: 79.1562px;">
+<p>IoT, sensors, RPC’s</p>
+</td>
 </tr>
-<tr>
-<td style="width: 19.6864%;">Activities</td>
-<td style="width: 80.3136%;"><a href="https://curriculum.netsblox.org/9-week/iot/thing-speak-search-guide.pdf" target="_blank" rel="noreferrer noopener">ThingSpeakSearch</a> (Teacher Version)<br><a href="https://curriculum.netsblox.org/9-week/iot/thing-speak-details-guide.pdf" target="_blank" rel="noreferrer noopener">ThingSpeakSensorDetails</a> (Teacher Version)</td>
+<tr style="height: 153.188px;">
+<td style="width: 19.6864%; height: 153.188px;">Activities</td>
+<td style="width: 80.3136%; height: 153.188px;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/thing-speak-search-guide.pdf" target="_blank" rel="noreferrer noopener">ThingSpeakSearch</a> (Teacher Version)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/thing-speak-details-guide.pdf" target="_blank" rel="noreferrer noopener">ThingSpeakSensorDetails</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
-<tr>
-<td style="width: 19.6864%;">Lesson Resources</td>
-<td style="width: 80.3136%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/iot-intro.ppt" target="_blank">Introductory Presentation</a><br><a href="https://netsblox.org/camp2019/netsblox" target="_blank" rel="noreferrer noopener">NetsBlox Overview</a><br><a rel="noreferrer noopener" href="https://thingspeak.com/" target="_blank">ThingSpeak</a><br><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/GoogleMaps/index.html" target="_blank">Google Maps Service</a><br><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Thingspeak/index.html" data-type="URL" data-id="https://editor.netsblox.org/docs/services/Thingspeak/index.html" target="_blank">Thingspeak Service</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/thing-speak-search-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ThingSpeakSearch&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – ThingSpeakSearch</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/thing-speak-details-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ThingSpeakSensorDetails&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – ThingSpeakSensorDetails</a></td>
+<tr style="height: 251.938px;">
+<td style="width: 19.6864%; height: 251.938px;">Lesson Resources</td>
+<td style="width: 80.3136%; height: 251.938px;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/iot-intro.ppt" target="_blank">Introductory Presentation</a></li>
+<li><a href="https://netsblox.org/camp2019/netsblox" target="_blank" rel="noreferrer noopener">NetsBlox Overview</a></li>
+<li><a rel="noreferrer noopener" href="https://thingspeak.com/" target="_blank">ThingSpeak</a></li>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/GoogleMaps/index.html" target="_blank">Google Maps Service</a></li>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Thingspeak/index.html" data-type="URL" data-id="https://editor.netsblox.org/docs/services/Thingspeak/index.html" target="_blank">Thingspeak Service</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/thing-speak-search-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ThingSpeakSearch&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – ThingSpeakSearch</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/thing-speak-details-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ThingSpeakSensorDetails&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – ThingSpeakSensorDetails</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -606,15 +869,20 @@
 <tbody>
 <tr>
 <td style="width: 20.1147%;">Estimated time</td>
-<td style="width: 79.8853%;">45 minutes x 5 days</td>
+<td style="width: 79.8853%;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1147%;">Lesson summary</td>
-<td style="width: 79.8853%;">Students will learn about PhoneIoT, which is an app that lets students connect their phones/tablets to NetsBlox and access their sensor data as IoT devices over the internet.</td>
+<td style="width: 79.8853%;">
+<p>Students will learn about PhoneIoT, which is an app that lets students connect their phones/tablets to NetsBlox and access their sensor data as IoT devices over the internet.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1147%;">Learning objectives</td>
-<td style="width: 79.8853%;">The students will be able to:<br>
+<td style="width: 79.8853%;">
+<p>The students will be able to:</p>
 <ul>
 <li>Connect their phones to NetsBlox and access sensors</li>
 <li>Select the appropriate access paradigm for sensor data</li>
@@ -624,15 +892,32 @@
 </tr>
 <tr>
 <td style="width: 20.1147%;">Vocabulary</td>
-<td style="width: 79.8853%;">Polling, streaming</td>
+<td style="width: 79.8853%;">
+<p>Polling, streaming</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1147%;">Activities</td>
-<td style="width: 79.8853%;"><a href="https://curriculum.netsblox.org/9-week/iot/compass-app-guide.pdf" target="_blank" rel="noreferrer noopener">Compass App</a> (Teacher Version)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/accel-plotter-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1Eopv72f-3Ea7KFxgZaWGPi4OjPo1PBgH/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Accelerometer Plotter</a> (Teacher Version)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/18ZE0Ks9UkzAI41YucbVk9p0XUyoqwAgs/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Simple Tilting Game</a> (Teacher Version)</td>
+<td style="width: 79.8853%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/compass-app-guide.pdf" target="_blank" rel="noreferrer noopener">Compass App</a> (Teacher Version)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/accel-plotter-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1Eopv72f-3Ea7KFxgZaWGPi4OjPo1PBgH/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Accelerometer Plotter</a> (Teacher Version)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/18ZE0Ks9UkzAI41YucbVk9p0XUyoqwAgs/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Simple Tilting Game</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.1147%;">Lesson Resources</td>
-<td style="width: 79.8853%;"><a href="https://curriculum.netsblox.org/9-week/iot/phoneiot-intro.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1ywqV1FiXbSFpb5-cbq_mjWsYflRRrmWH/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Intro to PhoneIoT: Polling vs. Streaming</a><br><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/PhoneIoT/index.html" data-type="URL" data-id="https://editor.netsblox.org/docs/services/PhoneIoT/index.html" target="_blank">PhoneIoT Service</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/compass-app-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=simple-compass&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Compass App</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/accel-plotter-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=accel-plotter-simple&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Accelerometer Plotter</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=drop-game-skeleton&amp;editMode&amp;noRun" target="_blank">Starter Template – Simple Tilting Game</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=drop-game-simple&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Simple Tilting Game</a></td>
+<td style="width: 79.8853%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/phoneiot-intro.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1ywqV1FiXbSFpb5-cbq_mjWsYflRRrmWH/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Intro to PhoneIoT: Polling vs. Streaming</a></li>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/PhoneIoT/index.html" data-type="URL" data-id="https://editor.netsblox.org/docs/services/PhoneIoT/index.html" target="_blank">PhoneIoT Service</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/compass-app-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=simple-compass&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Compass App</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/accel-plotter-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=accel-plotter-simple&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Accelerometer Plotter</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=drop-game-skeleton&amp;editMode&amp;noRun" target="_blank">Starter Template – Simple Tilting Game</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=drop-game-simple&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Simple Tilting Game</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -641,15 +926,20 @@
 <tbody>
 <tr>
 <td style="width: 20.398%;">Estimated time</td>
-<td style="width: 79.602%;">45 minutes x 5 days</td>
+<td style="width: 79.602%;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.398%;">Lesson summary</td>
-<td style="width: 79.602%;">Students will learn about how to make GUIs with PhoneIoT. This allows useful virtual controls like buttons, text boxes, joysticks, etc. to be added to the PhoneIoT app display and used to control NetsBlox projects through event-based message passing.</td>
+<td style="width: 79.602%;">
+<p>Students will learn about how to make GUIs with PhoneIoT. This allows useful virtual controls like buttons, text boxes, joysticks, etc. to be added to the PhoneIoT app display and used to control NetsBlox projects through event-based message passing.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.398%;">Learning objectives</td>
-<td style="width: 79.602%;">The students will be able to:<br>
+<td style="width: 79.602%;">
+<p>The students will be able to:</p>
 <ul>
 <li>Add widgets/controls to their PhoneIoT devices</li>
 <li>Receive events from the user when interacting with controls</li>
@@ -659,15 +949,29 @@
 </tr>
 <tr>
 <td style="width: 20.398%;">Vocabulary</td>
-<td style="width: 79.602%;">GUI, widget/control, canvas</td>
+<td style="width: 79.602%;">
+<p>GUI, widget/control, canvas</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.398%;">Activities</td>
-<td style="width: 79.602%;"><a href="https://curriculum.netsblox.org/9-week/iot/tilting-game-gui-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1aKKyrJpnQe32pqTNMynXGjVEyzAC38Td/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Simple Tilting Game with GUI</a> (Teacher Version)<br><a href="https://curriculum.netsblox.org/9-week/iot/drawing-app-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1I4vgovdOa8KYaTBOx9tl670BVCEI-g_e/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Drawing App</a> (Teacher Version)</td>
+<td style="width: 79.602%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/tilting-game-gui-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1aKKyrJpnQe32pqTNMynXGjVEyzAC38Td/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Simple Tilting Game with GUI</a> (Teacher Version)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/drawing-app-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1I4vgovdOa8KYaTBOx9tl670BVCEI-g_e/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Drawing App</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.398%;">Lesson Resources</td>
-<td style="width: 79.602%;"><a href="https://curriculum.netsblox.org/9-week/iot/phoneiot-gui.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1SLh8bovPdFg7WtjZfChRctvViF7fJZCQ/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides on PhoneIoT GUI</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-gui-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=drop-game-simple-with-gui&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Simple Tilting Game with GUI</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/drawing-app-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=joystick-drawer-starter&amp;editMode&amp;noRun" target="_blank">Starter Template – Drawing App</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/drawing-app-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=joystick-drawer&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Drawing App</a></td>
+<td style="width: 79.602%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/phoneiot-gui.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1SLh8bovPdFg7WtjZfChRctvViF7fJZCQ/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Slides on PhoneIoT GUI</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/tilting-game-gui-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=drop-game-simple-with-gui&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Simple Tilting Game with GUI</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/drawing-app-starter.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=joystick-drawer-starter&amp;editMode&amp;noRun" target="_blank">Starter Template – Drawing App</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/drawing-app-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=joystick-drawer&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Drawing App</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -676,15 +980,20 @@
 <tbody>
 <tr>
 <td style="width: 20.5421%;">Estimated time</td>
-<td style="width: 79.4579%;">45 minutes x 5 days</td>
+<td style="width: 79.4579%;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5421%;">Lesson summary</td>
-<td style="width: 79.4579%;">Students will learn how to control a robot through NetsBlox, and how to accomplish basic tasks using its motors and sensors.</td>
+<td style="width: 79.4579%;">
+<p>Students will learn how to control a robot through NetsBlox, and how to accomplish basic tasks using its motors and sensors.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5421%;">Learning objectives</td>
-<td style="width: 79.4579%;">The students will be able to:<br>
+<td style="width: 79.4579%;">
+<p>The students will be able to:</p>
 <ul>
 <li>Connect to a robot through NetsBlox</li>
 <li>Drive a robot using a controller program</li>
@@ -694,15 +1003,33 @@
 </tr>
 <tr>
 <td style="width: 20.5421%;">Vocabulary</td>
-<td style="width: 79.4579%;">Robotics, autonomy, sensors</td>
+<td style="width: 79.4579%;">
+<p>Robotics, autonomy, sensors</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5421%;">Activities</td>
-<td style="width: 79.4579%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/manual-driving-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1n2ldy_hRnWl0SAxgx0OLaafdD9Guuw0b/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Manual Robot Driving</a> (Teacher Version)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/treasure-hunt-manual-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1t_2qyGr6HH4H_NjLG-hSvXaXeMnVU0l7/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Manual Treasure Hunt</a> (Teacher Version)<br><a href="https://curriculum.netsblox.org/9-week/iot/waypoint-nav-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/17btFU5mdZNFLFI73IxjVYBO0Ri0DH_oo/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Waypoint Navigation</a> (Teacher Version)</td>
+<td style="width: 79.4579%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/manual-driving-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1n2ldy_hRnWl0SAxgx0OLaafdD9Guuw0b/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Manual Robot Driving</a> (Teacher Version)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/treasure-hunt-manual-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1t_2qyGr6HH4H_NjLG-hSvXaXeMnVU0l7/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Manual Treasure Hunt</a> (Teacher Version)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/waypoint-nav-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/17btFU5mdZNFLFI73IxjVYBO0Ri0DH_oo/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Waypoint Navigation</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5421%;">Lesson Resources</td>
-<td style="width: 79.4579%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/roboscape-online-intro.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1B0BtX7ROGEYF7Nrx3XHKjLv4Mwb3o8qJ/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Introduction to RoboScape Online</a><br><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/RoboScape/index.html" data-type="URL" data-id="https://editor.netsblox.org/docs/services/RoboScape/index.html" target="_blank">RoboScape Service</a><br><a href="https://curriculum.netsblox.org/9-week/iot/roboscape-api.pdf" data-type="URL" data-id="https://drive.google.com/file/d/1q05NidoWFKIiZuu5HluBTELZeKGWkrsX/view?usp=sharing" target="_blank" rel="noreferrer noopener">RoboScape API</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/manual-driving-basic-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=manual-driving-roboscape-online&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – Manual Robot Driving</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/manual-driving-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=variable-driving-roboscape-online&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – Manual Robot Driving with Variables</a><br><a href="https://curriculum.netsblox.org/9-week/iot/treasure-hunt-manual-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=manual-treasure-hunt&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Manual Treasure Hunt</a><br><a href="https://curriculum.netsblox.org/9-week/iot/waypoint-nav-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=manual-treasure-hunt&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Waypoint Navigation</a></td>
+<td style="width: 79.4579%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/roboscape-online-intro.ppt" data-type="URL" data-id="https://docs.google.com/presentation/d/1B0BtX7ROGEYF7Nrx3XHKjLv4Mwb3o8qJ/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">Introduction to RoboScape Online</a></li>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/RoboScape/index.html" data-type="URL" data-id="https://editor.netsblox.org/docs/services/RoboScape/index.html" target="_blank">RoboScape Service</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/roboscape-api.pdf" data-type="URL" data-id="https://drive.google.com/file/d/1q05NidoWFKIiZuu5HluBTELZeKGWkrsX/view?usp=sharing" target="_blank" rel="noreferrer noopener">RoboScape API</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/manual-driving-basic-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=manual-driving-roboscape-online&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – Manual Robot Driving</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/manual-driving-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=variable-driving-roboscape-online&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – Manual Robot Driving with Variables</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/treasure-hunt-manual-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=manual-treasure-hunt&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Manual Treasure Hunt</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/waypoint-nav-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=manual-treasure-hunt&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Waypoint Navigation</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -711,15 +1038,20 @@
 <tbody>
 <tr>
 <td style="width: 20.9704%;">Estimated time</td>
-<td style="width: 79.0296%;">45 minutes x 5 days</td>
+<td style="width: 79.0296%;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.9704%;">Lesson summary</td>
-<td style="width: 79.0296%;">Students will learn how to accomplish more advanced tasks with their robots.</td>
+<td style="width: 79.0296%;">
+<p>Students will learn how to accomplish more advanced tasks with their robots.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.9704%;">Learning objectives</td>
-<td style="width: 79.0296%;">The students will be able to:<br>
+<td style="width: 79.0296%;">
+<p>The students will be able to:</p>
 <ul>
 <li>Use sensors to navigate in an environment</li>
 <li>Create a custom controller app for their robot</li>
@@ -728,15 +1060,31 @@
 </tr>
 <tr>
 <td style="width: 20.9704%;">Vocabulary</td>
-<td style="width: 79.0296%;">LIDAR</td>
+<td style="width: 79.0296%;">
+<p>LIDAR</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.9704%;">Activities</td>
-<td style="width: 79.0296%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-box-finding-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1MxDfhdQRO9iTzEzyBJnp1iSOjE2OjMew/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">LIDAR Box Finding</a> (Teacher Version)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-driving-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1koCPXMPHL1uG0mpWYPHGnVb3ZGUsOwJ9/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">LIDAR Driving</a> (Teacher Version)<br><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1RF1H2n0bkPn4x6D1HQfOt6WulS8sTo44/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">PhoneIoT Robot Controllers</a> (Teacher Version)</td>
+<td style="width: 79.0296%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-box-finding-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1MxDfhdQRO9iTzEzyBJnp1iSOjE2OjMew/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">LIDAR Box Finding</a> (Teacher Version)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-driving-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1koCPXMPHL1uG0mpWYPHGnVb3ZGUsOwJ9/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank">LIDAR Driving</a> (Teacher Version)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1RF1H2n0bkPn4x6D1HQfOt6WulS8sTo44/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">PhoneIoT Robot Controllers</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.9704%;">Lesson Resources</td>
-<td style="width: 79.0296%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-box-finding-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;editMode=true&amp;noRun=true&amp;Username=csfrontiers&amp;ProjectName=LIDAR%20Box%20Finding&amp;extensions=%5B%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22%5D" target="_blank">Completed NetsBlox Project – LIDAR Box Finding</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-driving-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=LIDAR-Driving&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – LIDAR Driving</a><br><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-sliders-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=phone-robot-controller-sliders&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Robot Control with Phone Sliders</a><br><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-joys-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=simple-phone-robot-controller&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Simple Phone Robot Controller</a><br><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-joy-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=robot-phone-joystick&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Robot Control with Phone Joystick</a></td>
+<td style="width: 79.0296%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-box-finding-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;editMode=true&amp;noRun=true&amp;Username=csfrontiers&amp;ProjectName=LIDAR%20Box%20Finding&amp;extensions=%5B%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22%5D" target="_blank">Completed NetsBlox Project – LIDAR Box Finding</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/lidar-driving-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=LIDAR-Driving&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – LIDAR Driving</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-sliders-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=phone-robot-controller-sliders&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Robot Control with Phone Sliders</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-joys-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=simple-phone-robot-controller&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Simple Phone Robot Controller</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/robot-remote-joy-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=robot-phone-joystick&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Robot Control with Phone Joystick</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -745,15 +1093,20 @@
 <tbody>
 <tr>
 <td style="width: 21.1105%;">Estimated time</td>
-<td style="width: 78.8895%;">45 minutes x 5 days</td>
+<td style="width: 78.8895%;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.1105%;">Lesson summary</td>
-<td style="width: 78.8895%;">Students will learn about how the simplest way to send messages is not resistant to some similarly simple attacks. To keep their robot secure, they will also learn how to defend it from spoofed messages and brute force attacks.</td>
+<td style="width: 78.8895%;">
+<p>Students will learn about how the simplest way to send messages is not resistant to some similarly simple attacks. To keep their robot secure, they will also learn how to defend it from spoofed messages and brute force attacks.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.1105%;">Learning objectives</td>
-<td style="width: 78.8895%;">The students will be able to:<br>
+<td style="width: 78.8895%;">
+<p>The students will be able to:</p>
 <ul>
 <li>Understand the risks of communications over insecure channels</li>
 <li>Know possible methods to mitigate a Brute Force attack</li>
@@ -763,15 +1116,31 @@
 </tr>
 <tr>
 <td style="width: 21.1105%;">Vocabulary</td>
-<td style="width: 78.8895%;">Encryption, Brute Force attacks</td>
+<td style="width: 78.8895%;">
+<p>Encryption, Brute Force attacks</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.1105%;">Activities</td>
-<td style="width: 78.8895%;"><a href="https://curriculum.netsblox.org/9-week/iot/caesar-cipher-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1RT6sfWJUHtE_wb29yO-k-BJ4kuauWLTD/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Caesar Cipher</a> (Teacher Version)<br><a href="https://curriculum.netsblox.org/9-week/iot/vigenere-cipher-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1FGaK3g2S0gqIV8LsT_nOdDRW1R5zPS8-/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Vigenère Cipher</a> (Teacher Version)</td>
+<td style="width: 78.8895%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/caesar-cipher-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1RT6sfWJUHtE_wb29yO-k-BJ4kuauWLTD/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Caesar Cipher</a> (Teacher Version)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/vigenere-cipher-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1FGaK3g2S0gqIV8LsT_nOdDRW1R5zPS8-/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Vigenère Cipher</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 21.1105%;">Lesson Resources</td>
-<td style="width: 78.8895%;"><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/simple-attacks" target="_blank">Simple Attacks</a><br><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/plain-text" target="_blank">Plain Text</a><br><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/brute-force" target="_blank">Brute Force</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/caesar-cipher-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=EncryptionDemo&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Encryption Demo</a><br><a href="https://curriculum.netsblox.org/9-week/iot/caesar-waypoint-nav-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=CaesarCipherWaypointNavigation&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Caesar Cipher Waypoint Navigation</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/vigenere-waypoint-nav-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=VigenereCipherWaypointNavigation&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – Vigenère Cipher Waypoint Navigation</a></td>
+<td style="width: 78.8895%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/simple-attacks" target="_blank">Simple Attacks</a></li>
+<li><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/plain-text" target="_blank">Plain Text</a></li>
+<li><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/brute-force" target="_blank">Brute Force</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/caesar-cipher-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=EncryptionDemo&amp;editMode&amp;noRun" target="_blank">Completed NetsBlox Project – Encryption Demo</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/caesar-waypoint-nav-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=CaesarCipherWaypointNavigation&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Completed NetsBlox Project – Caesar Cipher Waypoint Navigation</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/vigenere-waypoint-nav-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=VigenereCipherWaypointNavigation&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Completed NetsBlox Project – Vigenère Cipher Waypoint Navigation</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -780,15 +1149,20 @@
 <tbody>
 <tr>
 <td style="width: 21.2553%;">Estimated time</td>
-<td style="width: 78.7447%;">45 minutes x 5 days</td>
+<td style="width: 78.7447%;">
+<p>45 minutes x 5 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.2553%;">Lesson summary</td>
-<td style="width: 78.7447%;">Students will learn about more advanced topics in cybersecurity.</td>
+<td style="width: 78.7447%;">
+<p>Students will learn about more advanced topics in cybersecurity.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.2553%;">Learning objectives</td>
-<td style="width: 78.7447%;">The students will be able to:<br>
+<td style="width: 78.7447%;">
+<p>The students will be able to:</p>
 <ul>
 <li>Write software to break a simple cipher</li>
 <li>Create a more advanced encryption program</li>
@@ -799,15 +1173,29 @@
 </tr>
 <tr>
 <td style="width: 21.2553%;">Vocabulary</td>
-<td style="width: 78.7447%;">Key exchange, replay attack, sequence number</td>
+<td style="width: 78.7447%;">
+<p>Key exchange, replay attack, sequence number</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.2553%;">Activities</td>
-<td style="width: 78.7447%;"><a href="https://curriculum.netsblox.org/9-week/iot/key-exchange-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1w-iFQ931L9ZiPRHcYvYlCwjbkFVPj-FY/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Secure Key Exchange</a> (Teacher Version)<br><a href="https://curriculum.netsblox.org/9-week/iot/seq-numbers-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1W1AGf0gcAmD8HTYAj5cRiU6BFDNMF5my/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Sequence Numbering</a> (Teacher Version)</td>
+<td style="width: 78.7447%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/key-exchange-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1w-iFQ931L9ZiPRHcYvYlCwjbkFVPj-FY/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Secure Key Exchange</a> (Teacher Version)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/seq-numbers-guide.pdf" data-type="URL" data-id="https://docs.google.com/document/d/1W1AGf0gcAmD8HTYAj5cRiU6BFDNMF5my/edit?usp=sharing&amp;ouid=110052608928141523669&amp;rtpof=true&amp;sd=true" target="_blank" rel="noreferrer noopener">Sequence Numbering</a> (Teacher Version)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 21.2553%;">Lesson Resources</td>
-<td style="width: 78.7447%;"><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/insecure-key-exchange" target="_blank">Insecure Key Exchange</a><br><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/replay-attack" target="_blank">Replay Attack</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/key-exchange-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=SecureKeyExchangeLidarDriving&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Complete NetsBlox Project – Secure Key Exchange in LIDAR Driving</a><br><a href="https://curriculum.netsblox.org/9-week/iot/seq-numbers-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ReplayAttackAndSequenceNumberingLidarDriving&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Complete NetsBlox Project – Replay Attacks and Sequence Numbering in LIDAR Driving</a></td>
+<td style="width: 78.7447%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/insecure-key-exchange" target="_blank">Insecure Key Exchange</a></li>
+<li><a rel="noreferrer noopener" href="https://netsblox.org/camp2019/replay-attack" target="_blank">Replay Attack</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/iot/key-exchange-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=SecureKeyExchangeLidarDriving&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank">Complete NetsBlox Project – Secure Key Exchange in LIDAR Driving</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/iot/seq-numbers-completed.nb" data-type="URL" data-id="https://editor.netsblox.org/?action=present&amp;Username=csfrontiers&amp;ProjectName=ReplayAttackAndSequenceNumberingLidarDriving&amp;editMode&amp;noRun&amp;extensions=[%22https://extensions.netsblox.org/extensions/RoboScapeOnline/index.js%22]" target="_blank" rel="noreferrer noopener">Complete NetsBlox Project – Replay Attacks and Sequence Numbering in LIDAR Driving</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -816,15 +1204,20 @@
 <tbody>
 <tr>
 <td style="width: 21.3974%;">Estimated time</td>
-<td style="width: 78.6026%;">45 minutes x 5 – 10 days</td>
+<td style="width: 78.6026%;">
+<p>45 minutes x 5 – 10 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.3974%;">Lesson summary</td>
-<td style="width: 78.6026%;">Students will break into small teams of 1 (individual) to 4 and brainstorm/implement some large project in NetsBlox using concepts learned so far. Projects should be related to IoT, which includes PhoneIoT and RoboScape Online, as well as any other IoT-related services available in NetsBlox, even if they have not been covered in previous activities (see below for examples).</td>
+<td style="width: 78.6026%;">
+<p>Students will break into small teams of 1 (individual) to 4 and brainstorm/implement some large project in NetsBlox using concepts learned so far. Projects should be related to IoT, which includes PhoneIoT and RoboScape Online, as well as any other IoT-related services available in NetsBlox, even if they have not been covered in previous activities (see below for examples).</p>
+</td>
 </tr>
 <tr>
 <td style="width: 21.3974%;">Project Ideas</td>
-<td style="width: 78.6026%;">This is meant to be a creative project where students all come up with their own unique project concepts, but here are some general examples of directions that could be taken if students are struggling to come up with one:<br>
+<td style="width: 78.6026%;">
+<p>This is meant to be a creative project where students all come up with their own unique project concepts, but here are some general examples of directions that could be taken if students are struggling to come up with one:</p>
 <ul>
 <li>Use RoboScape Online to create a new, more complex project than those covered so far. This could include a competitive hacking/defending problem if in a group of 2 or 4. This could also include more complex projects that require robots to collaborate to complete some objective (optionally with a third party attempting to hack the robots at the same time). There are several environments that could be used already, and new (simple) ones could be added if they can lead to compelling project ideas.</li>
 <li>Use PhoneIoT to make a remote controller for a robot in RoboScape Online. This could involve buttons, joysticks, sensors like accelerometer, gyroscope, compass heading, etc. Remember that this project should span the whole 5-10 days, so it must be sufficiently complex.</li>
@@ -835,7 +1228,8 @@
 </tr>
 <tr>
 <td style="width: 21.3974%;">Data Sources</td>
-<td style="width: 78.6026%;">The following is a list of additional data sources (in no particular order) that can be used for data-driven projects:<br>
+<td style="width: 78.6026%;">
+<p>The following is a list of additional data sources (in no particular order) that can be used for data-driven projects:</p>
 <ul>
 <li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/AirQuality/index.html" target="_blank">AirQuality</a> – Read real-time air quality index information based on location.</li>
 <li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/BingTraffic/index.html" target="_blank">BingTraffic</a> – Read streams of recent traffic accidents, construction areas, etc.</li>
@@ -849,7 +1243,11 @@
 </tr>
 <tr>
 <td style="width: 21.3974%;">Student Resources</td>
-<td style="width: 78.6026%;"><a href="https://editor.netsblox.org/docs/" target="_blank" rel="noreferrer noopener">NetsBlox Service Documentation</a></td>
+<td style="width: 78.6026%;">
+<ul>
+<li><a href="https://editor.netsblox.org/docs/" target="_blank" rel="noreferrer noopener">NetsBlox Service Documentation</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -864,7 +1262,7 @@
         <link href="https://csfrontiers.org/distributed-computing.html"/>
         <id>https://csfrontiers.org/distributed-computing.html</id>
 
-        <updated>2023-01-26T16:04:50-06:00</updated>
+        <updated>2023-02-07T10:39:45-06:00</updated>
             <summary>
                 <![CDATA[
                     The primary objective of this module is to introduce students to some of the basic distributed computing concepts through projects&hellip;
@@ -893,27 +1291,44 @@
 <tbody>
 <tr>
 <td style="width: 19.2631%;">Estimated Duration</td>
-<td style="width: 80.7369%;">One 45-50 minute period</td>
+<td style="width: 80.7369%;">
+<p>One 45-50 minute period</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.2631%;">Lesson Summary</td>
-<td style="width: 80.7369%;">In this brief intro lesson, students will brainstorm and discuss how Distributed Computing is part of our daily lives. They will be introduced to fundamental ideas related to Distributed Computing (DC). They will create NetsBlox accounts in preparation for Unit 1.</td>
+<td style="width: 80.7369%;">
+<p>In this brief intro lesson, students will brainstorm and discuss how Distributed Computing is part of our daily lives. They will be introduced to fundamental ideas related to Distributed Computing (DC). They will create NetsBlox accounts in preparation for Unit 1.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.2631%;">Learning Objectives</td>
-<td style="width: 80.7369%;">Connect DC to students’ lives to motivate learning of this module.</td>
+<td style="width: 80.7369%;">
+<p>Connect DC to students’ lives to motivate learning of this module.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.2631%;">Vocabulary</td>
-<td style="width: 80.7369%;">Distributed Computing (DC), Remote Procedure Call (RPC), Message Passing, Heterogeneity, Latency, Concurrency, Transparency, Security, Privacy,  Scalability, Resiliency</td>
+<td style="width: 80.7369%;">
+<p>Distributed Computing (DC), Remote Procedure Call (RPC), Message Passing, Heterogeneity, Latency, Concurrency, Transparency, Security, Privacy,  Scalability, Resiliency</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.2631%;">Lesson Resources</td>
-<td style="width: 80.7369%;"><a href="https://curriculum.netsblox.org/9-week/dc/dc-intro.ppt" target="_blank" rel="noreferrer noopener">What is Distributed Computing?</a></td>
+<td style="width: 80.7369%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/dc-intro.ppt" target="_blank" rel="noreferrer noopener">What is Distributed Computing?</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.2631%;">Additional Resources</td>
-<td style="width: 80.7369%;"><a href="https://curriculum.netsblox.org/9-week/dc/dc-goals-challenges.pdf" target="_blank" rel="noreferrer noopener">Distributed Systems Goals and Challenges</a><br><a rel="noreferrer noopener" href="https://www.ijcsit.com/docs/Volume%205/vol5issue04/ijcsit2014050420.pdf" data-type="URL" data-id="https://www.ijcsit.com/docs/Volume%205/vol5issue04/ijcsit2014050420.pdf" target="_blank">Some Issues, Challenges and Problems of Distributed Software System</a></td>
+<td style="width: 80.7369%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/dc-goals-challenges.pdf" target="_blank" rel="noreferrer noopener">Distributed Systems Goals and Challenges</a></li>
+<li><a rel="noreferrer noopener" href="https://www.ijcsit.com/docs/Volume%205/vol5issue04/ijcsit2014050420.pdf" data-type="URL" data-id="https://www.ijcsit.com/docs/Volume%205/vol5issue04/ijcsit2014050420.pdf" target="_blank">Some Issues, Challenges and Problems of Distributed Software System</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -922,31 +1337,53 @@
 <tbody>
 <tr>
 <td style="width: 19.5459%;">Estimate Duration</td>
-<td style="width: 80.4541%;">1-2 (45-50 min) periods</td>
+<td style="width: 80.4541%;">
+<p>1-2 (45-50 min) periods</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.5459%;">Lesson Summary</td>
-<td style="width: 80.4541%;">In this lesson, students will be introduces to the Services in NetsBlox (specifically GoogleMaps and Weather).</td>
+<td style="width: 80.4541%;">
+<p>In this lesson, students will be introduces to the Services in NetsBlox (specifically GoogleMaps and Weather).</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.5459%;">Learning Objectives</td>
-<td style="width: 80.4541%;">TSW understand what an RPC custom block does and how it can be used to access the Google Maps and weather service. TSW be able to use RPCs to create a map with weather information</td>
+<td style="width: 80.4541%;">
+<p>TSW understand what an RPC custom block does and how it can be used to access the Google Maps and weather service. TSW be able to use RPCs to create a map with weather information</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.5459%;">Vocabulary</td>
-<td style="width: 80.4541%;">Distributed Computing (DC), Remote Procedure Call (RPC), Network Latency</td>
+<td style="width: 80.4541%;">
+<p>Distributed Computing (DC), Remote Procedure Call (RPC), Network Latency</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.5459%;">Services / RPCs</td>
-<td style="width: 80.4541%;"><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/GoogleMaps/index.html" target="_blank">GoogleMaps</a><br><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Weather/index.html" target="_blank">Weather</a><br><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Geolocation/index.html" target="_blank">Geolocation</a></td>
+<td style="width: 80.4541%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/GoogleMaps/index.html" target="_blank">GoogleMaps</a></li>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Weather/index.html" target="_blank">Weather</a></li>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Geolocation/index.html" target="_blank">Geolocation</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.5459%;">Weather App</td>
-<td style="width: 80.4541%;"><a href="https://curriculum.netsblox.org/9-week/dc/weather-app.ppt" target="_blank" rel="noreferrer noopener">Slides</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/weather-app-completed.nb" target="_blank">Completed Project (Teacher Reference)</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/weather-app-guide.pdf" target="_blank">Step-by-Step Guide (Teacher Version)</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/weather-app-guide.mp4" target="_blank">Step-by-Step Video (Teacher Version)</a></td>
+<td style="width: 80.4541%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/weather-app.ppt" target="_blank" rel="noreferrer noopener">Slides</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/weather-app-completed.nb" target="_blank">Completed Project (Teacher Reference)</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/weather-app-guide.pdf" target="_blank">Step-by-Step Guide (Teacher Version)</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/weather-app-guide.mp4" target="_blank">Step-by-Step Video (Teacher Version)</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.5459%;">Project Extension Ideas</td>
-<td style="width: 80.4541%;">Urge students to come up with their own ideas. Here are some examples:<br>
+<td style="width: 80.4541%;">
+<p>Urge students to come up with their own ideas. Here are some examples:</p>
 <ul>
 <li>Translate to language of the region</li>
 <li>Give choice of Centigrade or Fahrenheit</li>
@@ -964,15 +1401,20 @@
 <tbody>
 <tr>
 <td style="width: 19.6894%;">Estimated Duration</td>
-<td style="width: 80.3106%;">2-3 (45-50 min) periods</td>
+<td style="width: 80.3106%;">
+<p>2-3 (45-50 min) periods</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Lesson Summary</td>
-<td style="width: 80.3106%;">In this lesson, students will be Introduced to<em> lists</em> and gain more experience with <em>Remote  Procedure Calls</em> (RPCs)  Students will learn how to create applications that display images of lead cast members in popular movies, movie posters, and additional information about cast members using TheMovieDatabase (TMDb).</td>
+<td style="width: 80.3106%;">
+<p>In this lesson, students will be Introduced to<em> lists</em> and gain more experience with <em>Remote  Procedure Calls</em> (RPCs)  Students will learn how to create applications that display images of lead cast members in popular movies, movie posters, and additional information about cast members using TheMovieDatabase (TMDb).</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Learning Objectives</td>
-<td style="width: 80.3106%;">After this lesson, students will be able to:<br>
+<td style="width: 80.3106%;">
+<p>After this lesson, students will be able to:</p>
 <ul>
 <li>Create and manipulated lists</li>
 <li>Explain the difference between lists and primitive values</li>
@@ -982,39 +1424,79 @@
 </tr>
 <tr>
 <td style="width: 19.6894%;">Vocabulary</td>
-<td style="width: 80.3106%;">Array/List, Element, Iterate/Iteration, Index, Primitive Value, Remote Procedure Call (RPC), Unique Identifier, Service</td>
+<td style="width: 80.3106%;">
+<p>Array/List, Element, Iterate/Iteration, Index, Primitive Value, Remote Procedure Call (RPC), Unique Identifier, Service</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Services / RPCs</td>
-<td style="width: 80.3106%;"><a href="https://editor.netsblox.org/docs/services/MovieDB/index.html" target="_blank" rel="noreferrer noopener">MovieDB</a></td>
+<td style="width: 80.3106%;">
+<ul>
+<li><a href="https://editor.netsblox.org/docs/services/MovieDB/index.html" target="_blank" rel="noreferrer noopener">MovieDB</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Slides</td>
-<td style="width: 80.3106%;"><a href="https://curriculum.netsblox.org/9-week/dc/lists-and-movies.ppt" target="_blank" rel="noreferrer noopener">Understanding Lists and Intro to MovieDB</a></td>
+<td style="width: 80.3106%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/lists-and-movies.ppt" target="_blank" rel="noreferrer noopener">Understanding Lists and Intro to MovieDB</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Activities</td>
-<td style="width: 80.3106%;">Walkthrough (in slides):  Create a list of 10 random numbers between 1 and 100<br>Practice (in slides):  Find the largest number in a list<br><br>Activity 1:  MovieDB Poster<br>Activity 2:  MovieDB CastShow<br>Activity 3:  Extend MovieDB project</td>
+<td style="width: 80.3106%;">
+<ul>
+<li>Walkthrough (in slides):  Create a list of 10 random numbers between 1 and 100</li>
+<li>Practice (in slides):  Find the largest number in a list</li>
+<li>Activity 1:  MovieDB Poster</li>
+<li>Activity 2:  MovieDB CastShow</li>
+<li>Activity 3:  Extend MovieDB project</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Project Code (Teacher Reference)</td>
-<td style="width: 80.3106%;"><a href="https://curriculum.netsblox.org/9-week/dc/movie-posters-completed.nb" target="_blank" rel="noreferrer noopener">Movie Posters</a> (completed)<br><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-completed.nb" target="_blank" rel="noreferrer noopener">Movie Cast Show</a> (completed)<br><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-simple-completed.nb" target="_blank" rel="noreferrer noopener">Movie Simple Cast Show</a> (rifles through images of main actor/actress)</td>
+<td style="width: 80.3106%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/movie-posters-completed.nb" target="_blank" rel="noreferrer noopener">Movie Posters</a> (completed)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-completed.nb" target="_blank" rel="noreferrer noopener">Movie Cast Show</a> (completed)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-simple-completed.nb" target="_blank" rel="noreferrer noopener">Movie Simple Cast Show</a> (rifles through images of main actor/actress)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Teacher Step-by-step Training Videos</td>
-<td style="width: 80.3106%;"><a href="https://curriculum.netsblox.org/9-week/dc/movie-posters-walkthrough.mp4" target="_blank" rel="noreferrer noopener">Movie Posters Walkthrough Video</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-walkthrough.mp4" target="_blank">CastShow Walkthrough Video</a></td>
+<td style="width: 80.3106%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/movie-posters-walkthrough.mp4" target="_blank" rel="noreferrer noopener">Movie Posters Walkthrough Video</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-walkthrough.mp4" target="_blank">CastShow Walkthrough Video</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Teacher Resources</td>
-<td style="width: 80.3106%;"><a href="https://curriculum.netsblox.org/9-week/dc/lists-and-movies-pacing.pdf" target="_blank" rel="noreferrer noopener">MovieDB Pacing Guide</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-description.pdf" target="_blank">MovieDB Summary</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/lists-and-movies-guide.pdf" target="_blank">MovieDB Activity Walkthrough</a></td>
+<td style="width: 80.3106%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/lists-and-movies-pacing.pdf" target="_blank" rel="noreferrer noopener">MovieDB Pacing Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-description.pdf" target="_blank">MovieDB Summary</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/lists-and-movies-guide.pdf" target="_blank">MovieDB Activity Walkthrough</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Additional Resources</td>
-<td style="width: 80.3106%;"><a href="https://www.youtube.com/watch?v=bpHtxx_wmqw" target="_blank" rel="noreferrer noopener">Video of the TheMovieDB API</a> – Get a sense for how NetsBlox is abstracting complexity for easy access to internet data sources</td>
+<td style="width: 80.3106%;">
+<ul>
+<li><a href="https://www.youtube.com/watch?v=bpHtxx_wmqw" target="_blank" rel="noreferrer noopener">Video of the TheMovieDB API</a> – Get a sense for how NetsBlox is abstracting complexity for easy access to internet data sources</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.6894%;">Project Extension Ideas</td>
-<td style="width: 80.3106%;">Urge students to come up with their own ideas. Here are some examples:<br>
+<td style="width: 80.3106%;">
+<p>Urge students to come up with their own ideas. Here are some examples:</p>
 <ul>
 <li>Larger grid of images (using cloning)</li>
 <li>Movie trivia quiz game</li>
@@ -1035,11 +1517,14 @@
 </tr>
 <tr>
 <td style="width: 19.9715%;">Lesson Summary</td>
-<td style="width: 80.0285%;">In this unit students will be introduced to a NetsBlox supported charting service called Chart which uses the gnuplot open source charting app. The charting service will allow students to create custom charts and graphs using two remote procedure calls (RPCs). Students will also be introduced to more useful ways of getting and storing collections of related data through the use of multidimensional lists/arrays.</td>
+<td style="width: 80.0285%;">
+<p>In this unit students will be introduced to a NetsBlox supported charting service called Chart which uses the gnuplot open source charting app. The charting service will allow students to create custom charts and graphs using two remote procedure calls (RPCs). Students will also be introduced to more useful ways of getting and storing collections of related data through the use of multidimensional lists/arrays.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9715%;">Learning Objectives</td>
-<td style="width: 80.0285%;">Student will:<br>
+<td style="width: 80.0285%;">
+<p>Student will:</p>
 <ul>
 <li>Explore ways of charting data using the Chart service</li>
 <li>Create a custom chart/graph to plot real-world data</li>
@@ -1052,34 +1537,61 @@
 </tr>
 <tr>
 <td style="width: 19.9715%;">Vocabulary</td>
-<td style="width: 80.0285%;">Remote Procedure Call (RPC), Data Structure, Multi-dimensional List/Array, Indexed Variable, Element</td>
+<td style="width: 80.0285%;">
+<p>Remote Procedure Call (RPC), Data Structure, Multi-dimensional List/Array, Indexed Variable, Element</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9715%;">Services / RPCs</td>
-<td style="width: 80.0285%;"><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Chart/index.html" target="_blank">Chart</a> (specifically the “draw” RPC)</td>
+<td style="width: 80.0285%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/Chart/index.html" target="_blank">Chart</a> (specifically the “draw” RPC)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9715%;">Activities</td>
 <td style="width: 80.0285%;">
-<ol>
+<ul>
 <li>Understanding multi-dimensional lists/arrays</li>
 <li>Intro to basic plotting with the NetsBlox Chart service</li>
 <li>Plotting with NetsBlox using CO2 data</li>
 <li>Create your own graph using other RPCs in NetsBlox</li>
-</ol>
+</ul>
 </td>
 </tr>
 <tr>
 <td style="width: 19.9715%;">Resources</td>
-<td style="width: 80.0285%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-pacing.pdf" target="_blank">5-Day Daily Pacing Guide</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting.ppt" target="_blank">Lists and Plotting Slides</a> (includes student plotting activity)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/climate-plotting.ppt" target="_blank">Climate Change Plotting</a> (includes student covid-19 activity)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-guide.pdf" target="_blank">Teacher Step-by-step Plotting Guide</a><br><a href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-completed.nb" target="_blank" rel="noreferrer noopener">Completed CO2 Data Plotting Project</a> (teacher reference)</td>
+<td style="width: 80.0285%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-pacing.pdf" target="_blank">5-Day Daily Pacing Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting.ppt" target="_blank">Lists and Plotting Slides</a> (includes student plotting activity)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/climate-plotting.ppt" target="_blank">Climate Change Plotting</a> (includes student covid-19 activity)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-guide.pdf" target="_blank">Teacher Step-by-step Plotting Guide</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-completed.nb" target="_blank" rel="noreferrer noopener">Completed CO2 Data Plotting Project</a> (teacher reference)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9715%;">Other Example Projects</td>
-<td style="width: 80.0285%;"><a href="https://curriculum.netsblox.org/9-week/dc/historical-temp.nb" target="_blank" rel="noreferrer noopener">Historical Temperature</a><br><a href="https://curriculum.netsblox.org/9-week/dc/ice-core-data.nb" target="_blank" rel="noreferrer noopener">Ice Core CO2 Data</a><br><a href="https://curriculum.netsblox.org/9-week/dc/plot-co2-vs-temp.nb" target="_blank" rel="noreferrer noopener">Compare CO2 vs Temp over the past 800,000 and 100 years</a><br><a href="https://curriculum.netsblox.org/9-week/dc/degree-days-alaska.nb" target="_blank" rel="noreferrer noopener">Degree Days in Alaska</a><br><a href="https://curriculum.netsblox.org/9-week/dc/covid-19-total.nb" target="_blank" rel="noreferrer noopener">Cumulative COVID-19 Data</a><br><a href="https://curriculum.netsblox.org/9-week/dc/covid-19-daily.nb" target="_blank" rel="noreferrer noopener">Daily COVID-19 Data</a></td>
+<td style="width: 80.0285%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/historical-temp.nb" target="_blank" rel="noreferrer noopener">Historical Temperature</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/ice-core-data.nb" target="_blank" rel="noreferrer noopener">Ice Core CO2 Data</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/plot-co2-vs-temp.nb" target="_blank" rel="noreferrer noopener">Compare CO2 vs Temp over the past 800,000 and 100 years</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/degree-days-alaska.nb" target="_blank" rel="noreferrer noopener">Degree Days in Alaska</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/covid-19-total.nb" target="_blank" rel="noreferrer noopener">Cumulative COVID-19 Data</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/covid-19-daily.nb" target="_blank" rel="noreferrer noopener">Daily COVID-19 Data</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9715%;">Additional Resources</td>
-<td style="width: 80.0285%;"><a href="https://icecores.org/about-ice-cores" target="_blank" rel="noreferrer noopener">Ice core data background info</a></td>
+<td style="width: 80.0285%;">
+<ul>
+<li><a href="https://icecores.org/about-ice-cores" target="_blank" rel="noreferrer noopener">Ice core data background info</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -1088,11 +1600,14 @@
 <tbody>
 <tr>
 <td style="width: 19.9711%;">Lesson Summary</td>
-<td style="width: 80.0289%;">In this lesson, students will be introduced to message passing and related networking abstractions in NetsBlox (specifically, the room and roles).</td>
+<td style="width: 80.0289%;">
+<p>In this lesson, students will be introduced to message passing and related networking abstractions in NetsBlox (specifically, the room and roles).</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9711%;">Learning Objectives</td>
-<td style="width: 80.0289%;">Students will be able to:<br>
+<td style="width: 80.0289%;">
+<p>Students will be able to:</p>
 <ul>
 <li>Explain the difference between messages and events, both in terms of the use od the network and the data payload</li>
 <li>Demonstrate the ability to use message passing for basic communication in a NetsBlox application</li>
@@ -1101,15 +1616,23 @@
 </tr>
 <tr>
 <td style="width: 19.9711%;">Vocabulary</td>
-<td style="width: 80.0289%;">Room, Role, Message, Message Type, Event</td>
+<td style="width: 80.0289%;">
+<p>Room, Role, Message, Message Type, Event</p>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9711%;">Activities</td>
-<td style="width: 80.0289%;"><a href="https://curriculum.netsblox.org/9-week/dc/distrib-hello-world.ppt" target="_blank" rel="noreferrer noopener">Distributed Hello World!</a><br><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation.ppt" target="_blank" rel="noreferrer noopener">Dog Animation</a></td>
+<td style="width: 80.0289%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/distrib-hello-world.ppt" target="_blank" rel="noreferrer noopener">Distributed Hello World!</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation.ppt" target="_blank" rel="noreferrer noopener">Dog Animation</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9711%;">Animation Extension Ideas</td>
-<td style="width: 80.0289%;">Urge students to come up with their own extensions, but here are some examples:<br>
+<td style="width: 80.0289%;">
+<p>Urge students to come up with their own extensions, but here are some examples:</p>
 <ul>
 <li>Add another role to the project so it runs across 3+ screens</li>
 <li>Enable the animation to change directions so it can be sent back to the previous screen</li>
@@ -1119,11 +1642,24 @@
 </tr>
 <tr>
 <td style="width: 19.9711%;">Teacher Resources</td>
-<td style="width: 80.0289%;"><a href="https://curriculum.netsblox.org/9-week/dc/distrib-hello-world-completed.nb" target="_blank" rel="noreferrer noopener">Completed Hello World! Project</a><br><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-completed.nb" target="_blank" rel="noreferrer noopener">Completed Distributed Animation Project</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-pacing.pdf" target="_blank">Daily Pacing Guide</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-summary.pdf" target="_blank">Distributed Animation Summary</a></td>
+<td style="width: 80.0289%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/distrib-hello-world-completed.nb" target="_blank" rel="noreferrer noopener">Completed Hello World! Project</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-completed.nb" target="_blank" rel="noreferrer noopener">Completed Distributed Animation Project</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-pacing.pdf" target="_blank">Daily Pacing Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-summary.pdf" target="_blank">Distributed Animation Summary</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 19.9711%;">Student Resources</td>
-<td style="width: 80.0289%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/distrib-hello-guide.pdf" target="_blank">Hello World! Guide</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-guide.pdf" target="_blank">Distributed Animation Guide</a><br><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter.nb" target="_blank" rel="noreferrer noopener">Distributed Animation Starter Project</a> (also available <a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter-no-code.nb" target="_blank" rel="noreferrer noopener">without code</a>)</td>
+<td style="width: 80.0289%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/distrib-hello-guide.pdf" target="_blank">Hello World! Guide</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-guide.pdf" target="_blank">Distributed Animation Guide</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter.nb" target="_blank" rel="noreferrer noopener">Distributed Animation Starter Project</a> (also available</li>
+</ul>
+<a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter-no-code.nb" target="_blank" rel="noreferrer noopener">without code</a>)</td>
 </tr>
 </tbody>
 </table>
@@ -1132,11 +1668,14 @@
 <tbody>
 <tr>
 <td style="width: 20.399%;">Lesson Summary</td>
-<td style="width: 79.601%;">In this lesson, the students will create custom messages and will be able to create a collaborative whiteboard application where two users can draw on each other’s stage.</td>
+<td style="width: 79.601%;">
+<p>In this lesson, the students will create custom messages and will be able to create a collaborative whiteboard application where two users can draw on each other’s stage.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.399%;">Learning Objectives</td>
-<td style="width: 79.601%;">Students should:<br>
+<td style="width: 79.601%;">
+<p>Students should:</p>
 <ul>
 <li>Gain more experience with message passing</li>
 <li>Be able to reason about the impact of protocol design on the granularity/smoothness of collaboration</li>
@@ -1146,19 +1685,34 @@
 </tr>
 <tr>
 <td style="width: 20.399%;">Vocabulary</td>
-<td style="width: 79.601%;">Room, Role, Message, Message Types, Custom Messages, Latency, Concurrency</td>
+<td style="width: 79.601%;">
+<p>Room, Role, Message, Message Types, Custom Messages, Latency, Concurrency</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.399%;">Activities</td>
-<td style="width: 79.601%;"><a href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard.ppt" target="_blank" rel="noreferrer noopener">Collaborative Whiteboard</a></td>
+<td style="width: 79.601%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard.ppt" target="_blank" rel="noreferrer noopener">Collaborative Whiteboard</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.399%;">Teacher Resources</td>
-<td style="width: 79.601%;"><a href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard-completed.nb" target="_blank" rel="noreferrer noopener">Completed Collaborative Whiteboard Project</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard-guide.pdf" target="_blank">Collaborative Whiteboard Step-by-step Guide</a> (also available: <a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard.mp4" target="_blank">video guide</a>)</td>
+<td style="width: 79.601%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard-completed.nb" target="_blank" rel="noreferrer noopener">Completed Collaborative Whiteboard Project</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard-guide.pdf" target="_blank">Collaborative Whiteboard Step-by-step Guide</a> (also available: <a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard.mp4" target="_blank">video guide</a>)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.399%;">Student Resources</td>
-<td style="width: 79.601%;"><a href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard-starter.nb" target="_blank" rel="noreferrer noopener">Collaborative Whiteboard Starter Project</a></td>
+<td style="width: 79.601%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/shared-whiteboard-starter.nb" target="_blank" rel="noreferrer noopener">Collaborative Whiteboard Starter Project</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -1167,11 +1721,14 @@
 <tbody>
 <tr>
 <td style="width: 20.5415%;">Lesson Summary</td>
-<td style="width: 79.4585%;">In this lesson, students will create an application where users can message each other without a central server by passing messages among peers. Each peer in the network can send messages, receive messages, or simply pass messages along.</td>
+<td style="width: 79.4585%;">
+<p>In this lesson, students will create an application where users can message each other without a central server by passing messages among peers. Each peer in the network can send messages, receive messages, or simply pass messages along.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5415%;">Learning Objectives</td>
-<td style="width: 79.4585%;">Students will:<br>
+<td style="width: 79.4585%;">
+<p>Students will:</p>
 <ul>
 <li>Create an application where students can pass messages through a mesh network</li>
 <li>Understand peer-to-peer and client-server network architectures and be able to tell the limits and benefits of each</li>
@@ -1181,19 +1738,36 @@
 </tr>
 <tr>
 <td style="width: 20.5415%;">Vocabulary</td>
-<td style="width: 79.4585%;">Nodes, Fault-Tolerance, Peer-to-Peer Networking, Redundancy, Resiliency</td>
+<td style="width: 79.4585%;">
+<p>Nodes, Fault-Tolerance, Peer-to-Peer Networking, Redundancy, Resiliency</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5415%;">Activities</td>
-<td style="width: 79.4585%;"><a href="https://curriculum.netsblox.org/9-week/dc/mesh-networks-guide.pdf" target="_blank" rel="noreferrer noopener">Mesh Network Lab</a><br>Written Activity: Identify uses of Mesh Networks in Everyday Life</td>
+<td style="width: 79.4585%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/mesh-networks-guide.pdf" target="_blank" rel="noreferrer noopener">Mesh Network Lab</a></li>
+<li>Written Activity: Identify uses of Mesh Networks in Everyday Life</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5415%;">Teacher Resources</td>
-<td style="width: 79.4585%;"><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/mesh-networks.ppt" target="_blank">Mesh Networking Slides</a><br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/mesh-networks-guide.pdf" target="_blank">Mesh Network Lab Step-by-Step Guide</a> (teacher reference)<br><a href="https://curriculum.netsblox.org/9-week/dc/mesh-networks-completed.nb" target="_blank" rel="noreferrer noopener">Completed Mesh Network Project</a> (also available: <a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/mesh-networks.mp4" target="_blank">video walkthrough</a>)</td>
+<td style="width: 79.4585%;">
+<ul>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/mesh-networks.ppt" target="_blank">Mesh Networking Slides</a></li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/mesh-networks-guide.pdf" target="_blank">Mesh Network Lab Step-by-Step Guide</a> (teacher reference)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/mesh-networks-completed.nb" target="_blank" rel="noreferrer noopener">Completed Mesh Network Project</a> (also available: <a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/mesh-networks.mp4" target="_blank">video walkthrough</a>)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.5415%;">Additional Resources</td>
-<td style="width: 79.4585%;"><a href="https://curriculum.netsblox.org/9-week/dc/mesh-networks.pdf" target="_blank" rel="noreferrer noopener">Misc. Resources</a></td>
+<td style="width: 79.4585%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/mesh-networks.pdf" target="_blank" rel="noreferrer noopener">Misc. Resources</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -1202,15 +1776,20 @@
 <tbody>
 <tr>
 <td style="width: 20.6843%;">Estimated Duration</td>
-<td style="width: 79.3157%;">2-3 Days</td>
+<td style="width: 79.3157%;">
+<p>2-3 Days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6843%;">Lesson Summary</td>
-<td style="width: 79.3157%;">In this lesson, students will be introduced to a new way to write a distributed program.  Instead of using multiple roles, it will use multiple instances of the client program, all communicating with the server program using project to project message passing.</td>
+<td style="width: 79.3157%;">
+<p>In this lesson, students will be introduced to a new way to write a distributed program.  Instead of using multiple roles, it will use multiple instances of the client program, all communicating with the server program using project to project message passing.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6843%;">Learning Objectives</td>
-<td style="width: 79.3157%;">Students will be able to:<br>
+<td style="width: 79.3157%;">
+<p>Students will be able to:</p>
 <ul>
 <li>Pass data to another project using the <code>rolename@projectname@username</code> syntax</li>
 <li>Establish a basic communication protocol</li>
@@ -1219,19 +1798,36 @@
 </tr>
 <tr>
 <td style="width: 20.6843%;">Vocabulary</td>
-<td style="width: 79.3157%;">Message Passing, Protocol, Global Address, Role, Project</td>
+<td style="width: 79.3157%;">
+<p>Message Passing, Protocol, Global Address, Role, Project</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6843%;">Activities</td>
-<td style="width: 79.3157%;"><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat.ppt" target="_blank" rel="noreferrer noopener">Chat Room</a></td>
+<td style="width: 79.3157%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat.ppt" target="_blank" rel="noreferrer noopener">Chat Room</a></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6843%;">Teacher Resources</td>
-<td style="width: 79.3157%;"><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-server-completed.nb" target="_blank" rel="noreferrer noopener">Completed Simple Chat Server</a> (teacher reference)<br><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-client-completed.nb" target="_blank" rel="noopener noreferrer">Completed Simple Chat Client</a> (teacher reference)<br><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/simple-chat-guide.pdf" target="_blank">Simple Chat Guide</a> (teacher reference)</td>
+<td style="width: 79.3157%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-server-completed.nb" target="_blank" rel="noreferrer noopener">Completed Simple Chat Server</a> (teacher reference)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-client-completed.nb" target="_blank" rel="noopener noreferrer">Completed Simple Chat Client</a> (teacher reference)</li>
+<li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/simple-chat-guide.pdf" target="_blank">Simple Chat Guide</a> (teacher reference)</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6843%;">Student Resources</td>
-<td style="width: 79.3157%;"><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-server-starter.nb" target="_blank" rel="noreferrer noopener">Simple Chat Server (starter)</a><br><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-client-starter.nb" target="_blank" rel="noreferrer noopener">Simple Chat Client (starter)</a></td>
+<td style="width: 79.3157%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-server-starter.nb" target="_blank" rel="noreferrer noopener">Simple Chat Server (starter)</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/simple-chat-client-starter.nb" target="_blank" rel="noreferrer noopener">Simple Chat Client (starter)</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
@@ -1240,15 +1836,20 @@
 <tbody>
 <tr>
 <td style="width: 20.6821%;">Estimated Duration</td>
-<td style="width: 79.3179%;">45 minutes x 5 – 10 days</td>
+<td style="width: 79.3179%;">
+<p>45 minutes x 5 – 10 days</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6821%;">Lesson Summary</td>
-<td style="width: 79.3179%;">In this project, students will come up with a project to work on for the entire unit (5-10 days, depending on scheduling), either as an individual or in teams of 2-4. Project ideas should be related to distributed computing and can use pieces and concepts from previous lessons. Note that students are not limited to only concepts that have been covered previously.</td>
+<td style="width: 79.3179%;">
+<p>In this project, students will come up with a project to work on for the entire unit (5-10 days, depending on scheduling), either as an individual or in teams of 2-4. Project ideas should be related to distributed computing and can use pieces and concepts from previous lessons. Note that students are not limited to only concepts that have been covered previously.</p>
+</td>
 </tr>
 <tr>
 <td style="width: 20.6821%;">Project Ideas</td>
-<td style="width: 79.3179%;">This is meant to be a creative unit where students come up with their own project concepts, but if students are struggling for ideas, here is a list of example directions:<br>
+<td style="width: 79.3179%;">
+<p>This is meant to be a creative unit where students come up with their own project concepts, but if students are struggling for ideas, here is a list of example directions:</p>
 <ul>
 <li>Turn-based games. The <a rel="noreferrer noopener" href="https://editor.netsblox.org/docs/services/NPlayer/index.html" target="_blank">NPlayer</a> service (<a href="https://curriculum.netsblox.org/9-week/dc/nplayer-demo.nb" target="_blank" rel="noreferrer noopener">demo</a>) in NetsBlox makes it easy to set up distributed, multiplayer turn-based games that use message passing between projects to control the game state (the NPlayer service simply handles turn order, but not other aspects of the game logic). Students are free to come up with what kind of game to make, but we provide the 21 Pebbles game as an example. <a href="https://curriculum.netsblox.org/9-week/dc/21-pebbles-starter.nb" target="_blank" rel="noreferrer noopener">Starter Project</a>. <a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/21-pebbles-guide.pdf" target="_blank">Step-by-Step Guide</a>. <a href="https://curriculum.netsblox.org/9-week/dc/21-pebbles-completed.nb" target="_blank" rel="noreferrer noopener">Completed Project</a>.</li>
 <li>Make your own service.</li>
@@ -1258,7 +1859,11 @@
 </tr>
 <tr>
 <td style="width: 20.6821%;">Student Resources</td>
-<td style="width: 79.3179%;"><a href="https://editor.netsblox.org/docs/" target="_blank" rel="noreferrer noopener">NetsBlox Service Documentation</a></td>
+<td style="width: 79.3179%;">
+<ul>
+<li><a href="https://editor.netsblox.org/docs/" target="_blank" rel="noreferrer noopener">NetsBlox Service Documentation</a></li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
