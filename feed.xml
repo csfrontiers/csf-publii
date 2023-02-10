@@ -3,12 +3,28 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.org/feed.xml" rel="self" />
     <link href="https://csfrontiers.org" />
-    <updated>2023-02-07T10:39:45-06:00</updated>
+    <updated>2023-02-10T11:10:16-06:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://csfrontiers.org</id>
 
+    <entry>
+        <title>CSF Virtual PD 2023</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.org/csf-virtual-pd-2023.html"/>
+        <id>https://csfrontiers.org/csf-virtual-pd-2023.html</id>
+
+        <updated>2023-02-10T11:10:16-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><a href="https://forms.gle/3C9WymofvbCB7tNV7" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://csfrontiers.org/media/posts/10//pd-flyer.png" alt="" width="816" height="1046" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/10//responsive/pd-flyer-xs.png 384w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-sm.png 600w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-md.png 768w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-lg.png 1200w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-xl.png 1600w"></figure></a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>People</title>
         <author>
