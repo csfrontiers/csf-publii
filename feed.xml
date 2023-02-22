@@ -3,7 +3,7 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.org/feed.xml" rel="self" />
     <link href="https://csfrontiers.org" />
-    <updated>2023-02-22T09:21:38-06:00</updated>
+    <updated>2023-02-22T17:54:44-06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -1278,7 +1278,7 @@
         <link href="https://csfrontiers.org/distributed-computing.html"/>
         <id>https://csfrontiers.org/distributed-computing.html</id>
 
-        <updated>2023-02-22T09:21:38-06:00</updated>
+        <updated>2023-02-22T17:54:44-06:00</updated>
             <summary>
                 <![CDATA[
                     The primary objective of this module is to introduce students to some of the basic distributed computing concepts through projects&hellip;
@@ -1585,6 +1585,7 @@
 <li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/climate-plotting.ppt" target="_blank">Climate Change Plotting</a> (includes student covid-19 activity)</li>
 <li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-guide.pdf" target="_blank">Teacher Step-by-step Plotting Guide</a></li>
 <li><a href="https://curriculum.netsblox.org/9-week/dc/co2-plotting-completed.nb" target="_blank" rel="noreferrer noopener">Completed CO2 Data Plotting Project</a> (teacher reference)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/covid19-map.mp4" target="_blank" rel="noopener noreferrer">Interactive COVID-19 Map</a></li>
 </ul>
 </td>
 </tr>
