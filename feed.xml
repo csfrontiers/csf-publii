@@ -3,7 +3,7 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.org/feed.xml" rel="self" />
     <link href="https://csfrontiers.org" />
-    <updated>2023-02-10T11:10:16-06:00</updated>
+    <updated>2023-02-22T09:21:38-06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -1278,7 +1278,7 @@
         <link href="https://csfrontiers.org/distributed-computing.html"/>
         <id>https://csfrontiers.org/distributed-computing.html</id>
 
-        <updated>2023-02-07T10:39:45-06:00</updated>
+        <updated>2023-02-22T09:21:38-06:00</updated>
             <summary>
                 <![CDATA[
                     The primary objective of this module is to introduce students to some of the basic distributed computing concepts through projects&hellip;
@@ -1478,7 +1478,7 @@
 <ul>
 <li><a href="https://curriculum.netsblox.org/9-week/dc/movie-posters-completed.nb" target="_blank" rel="noreferrer noopener">Movie Posters</a> (completed)</li>
 <li><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-completed.nb" target="_blank" rel="noreferrer noopener">Movie Cast Show</a> (completed)</li>
-<li><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-simple-completed.nb" target="_blank" rel="noreferrer noopener">Movie Simple Cast Show</a> (rifles through images of main actor/actress)</li>
+<li><a href="https://curriculum.netsblox.org/9-week/dc/movie-cast-show-simple-completed.nb" target="_blank" rel="noreferrer noopener">Movie Simple Cast Show</a> (cycles through images of main actor/actress)</li>
 </ul>
 </td>
 </tr>
@@ -1675,7 +1675,7 @@
 <li><a rel="noreferrer noopener" href="https://curriculum.netsblox.org/9-week/dc/dog-animation-guide.pdf" target="_blank">Distributed Animation Guide</a></li>
 <li><a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter.nb" target="_blank" rel="noreferrer noopener">Distributed Animation Starter Project</a> (also available</li>
 </ul>
-<a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter-no-code.nb" target="_blank" rel="noreferrer noopener">without code</a>)</td>
+ <a href="https://curriculum.netsblox.org/9-week/dc/dog-animation-starter-no-code.nb" target="_blank" rel="noreferrer noopener">without code</a>)</td>
 </tr>
 </tbody>
 </table>
