@@ -3,7 +3,7 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.org/feed.xml" rel="self" />
     <link href="https://csfrontiers.org" />
-    <updated>2023-02-22T19:53:58-06:00</updated>
+    <updated>2023-02-22T20:09:06-06:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://csfrontiers.org/software-engineering.html"/>
         <id>https://csfrontiers.org/software-engineering.html</id>
 
-        <updated>2023-02-22T19:52:47-06:00</updated>
+        <updated>2023-02-22T20:09:06-06:00</updated>
             <summary>
                 <![CDATA[
                     This module will challenge students to address a local problem. We will follow an entrepreneurship approach, modeled after the successful&hellip;
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/car-laptop.jpeg" alt="" width="400" height="267" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-xs.jpeg 384w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-sm.jpeg 600w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-md.jpeg 768w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-lg.jpeg 1200w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-xl.jpeg 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://csfrontiers.org/media/posts/11/car-laptop.jpeg" alt="" width="412" height="275" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/11/responsive/car-laptop-xs.jpeg 384w ,https://csfrontiers.org/media/posts/11/responsive/car-laptop-sm.jpeg 600w ,https://csfrontiers.org/media/posts/11/responsive/car-laptop-md.jpeg 768w ,https://csfrontiers.org/media/posts/11/responsive/car-laptop-lg.jpeg 1200w ,https://csfrontiers.org/media/posts/11/responsive/car-laptop-xl.jpeg 1600w"></figure>
 <p>This module will challenge students to address a local problem. We will follow an entrepreneurship approach, modeled after the successful EPICS community-based engineering design process, where students research an issue in their own community and design a program to help people solve it. Through these activities, students learn many valuable lessons including the role of community service in society, the significant impact that their engineering skills can have on their community, and that assisting others leads to their own substantial growth. The module will teach design, planning, code versioning, collaboration, and aspects of human-computer interaction (HCI) and usability. The final product will serve as a capstone project for the course. Industry volunteers and local relevant stakeholders will be recruited to provide feedback during periodic whole-class showcases.</p>
 <div class="post__toc">
 <h3>Table of Contents</h3>
@@ -318,7 +318,7 @@
 </tbody>
 </table>
 <h2 id="mcetoc_1gptv3el81l7">Unit 5</h2>
-<table style="border-collapse: collapse; width: 100%; height: 741.281px;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 548.64px;" border="1">
 <tbody>
 <tr style="height: 395.859px;">
 <td style="width: 21.1539%; height: 395.859px;">Lesson Summary</td>
@@ -348,9 +348,9 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 165.547px;">
-<td style="width: 21.1539%; height: 165.547px;">Learning Objectives</td>
-<td style="width: 78.9887%; height: 165.547px;">
+<tr style="height: 61.297px;">
+<td style="width: 21.1539%; height: 61.297px;">Learning Objectives</td>
+<td style="width: 78.9887%; height: 61.297px;">
 <ul>
 <li>Describe CS concepts and how they are needed in programming (PRADA)</li>
 <li>Discuss ethics and entrepreneurship</li>
@@ -358,9 +358,9 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 79.1562px;">
-<td style="width: 21.1539%; height: 79.1562px;">Resources</td>
-<td style="width: 78.9887%; height: 79.1562px;">
+<tr style="height: 91.4844px;">
+<td style="width: 21.1539%; height: 91.4844px;">Resources</td>
+<td style="width: 78.9887%; height: 91.4844px;">
 <ul>
 <li><a href="https://curriculum.netsblox.org/9-week/se/docs.ppt" target="_blank" rel="noopener noreferrer">Documentation</a></li>
 </ul>
@@ -369,11 +369,11 @@
 </tbody>
 </table>
 <h2 id="mcetoc_1gptv3el81l8">Unit 6</h2>
-<table style="border-collapse: collapse; width: 100%; height: 304.266px;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 256.735px;" border="1">
 <tbody>
-<tr style="height: 153.188px;">
-<td style="width: 22.0086%; height: 153.188px;">Lesson Summary</td>
-<td style="width: 78.134%; height: 153.188px;">
+<tr style="height: 91.188px;">
+<td style="width: 22.0086%; height: 91.188px;">Lesson Summary</td>
+<td style="width: 78.134%; height: 91.188px;">
 <ul>
 <li>Project playtesting</li>
 <li>Interviewing and affinity diagramming
@@ -384,9 +384,9 @@
 </ul>
 </td>
 </tr>
-<tr style="height: 50.3594px;">
-<td style="width: 22.0086%; height: 50.3594px;">Learning Objectives</td>
-<td style="width: 78.134%; height: 50.3594px;">
+<tr style="height: 165.547px;">
+<td style="width: 22.0086%; height: 165.547px;">Learning Objectives</td>
+<td style="width: 78.134%; height: 165.547px;">
 <ul>
 <li>Demonstrate an understanding of the overall software design process</li>
 <li>Design and implement a complete program that solves a community problem</li>
