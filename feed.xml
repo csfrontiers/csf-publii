@@ -3,12 +3,446 @@
     <title>CS Frontiers</title>
     <link href="https://csfrontiers.org/feed.xml" rel="self" />
     <link href="https://csfrontiers.org" />
-    <updated>2023-02-22T17:54:44-06:00</updated>
+    <updated>2023-02-22T19:53:58-06:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://csfrontiers.org</id>
 
+    <entry>
+        <title>Software Engineering</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.org/software-engineering.html"/>
+        <id>https://csfrontiers.org/software-engineering.html</id>
+
+        <updated>2023-02-22T19:52:47-06:00</updated>
+            <summary>
+                <![CDATA[
+                    This module will challenge students to address a local problem. We will follow an entrepreneurship approach, modeled after the successful&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/car-laptop.jpeg" alt="" width="400" height="267" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-xs.jpeg 384w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-sm.jpeg 600w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-md.jpeg 768w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-lg.jpeg 1200w ,file:///home/devin/Dropbox/publii/sites/cs-frontiers/input/media/posts/5/responsive/car-laptop-xl.jpeg 1600w"></figure>
+<p>This module will challenge students to address a local problem. We will follow an entrepreneurship approach, modeled after the successful EPICS community-based engineering design process, where students research an issue in their own community and design a program to help people solve it. Through these activities, students learn many valuable lessons including the role of community service in society, the significant impact that their engineering skills can have on their community, and that assisting others leads to their own substantial growth. The module will teach design, planning, code versioning, collaboration, and aspects of human-computer interaction (HCI) and usability. The final product will serve as a capstone project for the course. Industry volunteers and local relevant stakeholders will be recruited to provide feedback during periodic whole-class showcases.</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1gptv3el81l2">Unit 0: Framing and Intro to Software Engineering and Game Design</a></li>
+<li><a href="#mcetoc_1gptv3el81l3">Unit 1: Intro to Software Engineering</a></li>
+<li><a href="#mcetoc_1gptv3el81l4">Unit 2</a></li>
+<li><a href="#mcetoc_1gptv3el81l5">Unit 3</a></li>
+<li><a href="#mcetoc_1gptv3el81l6">Unit 4</a></li>
+<li><a href="#mcetoc_1gptv3el81l7">Unit 5</a></li>
+<li><a href="#mcetoc_1gptv3el81l8">Unit 6</a></li>
+<li><a href="#mcetoc_1gptv3el81l9">Unit 7</a></li>
+<li><a href="#mcetoc_1gptv3el81la">Unit 8</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1gptv3el81l2">Unit 0: Framing and Intro to Software Engineering and Game Design</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 19.4011%;">Lesson Summary</td>
+<td style="width: 80.5989%;">
+<ul>
+<li>Unit Introduction
+<ul>
+<li>What topics are we covering?</li>
+</ul>
+</li>
+<li>Guest Speaker on Meaningful Impact project</li>
+<li>Talk about SE projects
+<ul>
+<li>Project Introduction</li>
+<li>Project Requirements</li>
+<li>Start with project identification (students will research)
+<ul>
+<li>Help students pick out projects</li>
+<li>Guiding questions to help students think of problems to tackle</li>
+<li>Playtest a "serious game"</li>
+</ul>
+</li>
+<li>Students begin working on the in-class presentation for their project proposals</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 19.4011%;">Learning Objectives</td>
+<td style="width: 80.5989%;">
+<ul>
+<li>Explain about challenges in software development</li>
+<li>Demonstrate an understanding of the overall software design process</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 19.4011%;">Resources</td>
+<td style="width: 80.5989%;">
+<ul>
+<li><a href="https://login.netsblox.org/" target="_blank" rel="noopener noreferrer">Netsblox sign in (If using as stand-a-one course)</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/se/netsblox-intro.ppt" target="_blank" rel="noopener noreferrer">Intro/Refresher to NetsBlox activity</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/se/netsblox-refresher.ppt" target="_blank" rel="noopener noreferrer">Refresher for NetsBlox distributed computing features</a></li>
+<li><a href="https://curriculum.netsblox.org/9-week/se/project-intro.ppt" target="_blank" rel="noopener noreferrer">Project Introduction</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l3">Unit 1: Intro to Software Engineering</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 19.4445%;">Lesson Summary</td>
+<td style="width: 80.6981%;">
+<ul>
+<li>SE
+<ul>
+<li>Breaking into phases - what functionality is most essential</li>
+<li>Project management</li>
+<li>Collaboration Methods</li>
+</ul>
+</li>
+<li>Programming
+<ul>
+<li>Program a small extension - Guided Activity</li>
+<li>Demo one of the collaboration methods</li>
+</ul>
+</li>
+<li>Project
+<ul>
+<li>Students finish their project proposal presentation and present in class</li>
+<li>Groups are chosen for the projects</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 19.4445%;">Learning Objectives</td>
+<td style="width: 80.6981%;">
+<ul>
+<li>Explain about challenges in software development</li>
+<li>Understand the history of software and app development</li>
+<li>Design and implement basic levels, models, and scripts for a program or app</li>
+<li>Demonstrate an understanding of the overall software design process</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 19.4445%;">Vocabulary</td>
+<td style="width: 80.6981%;">
+<p>Agile model, cohesion, coupling, modularization, rapid application development, scrum, waterfall model</p>
+</td>
+</tr>
+<tr>
+<td style="width: 19.4445%;">Resources</td>
+<td style="width: 80.6981%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/se/se-intro.ppt" target="_blank" rel="noopener noreferrer">Introduction to Software Engineering</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l4">Unit 2</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 19.8719%;">Lesson Summary</td>
+<td style="width: 80.2708%;">
+<ul>
+<li>SE
+<ul>
+<li>Intro to documentation
+<ul>
+<li>For users and also other programmers</li>
+</ul>
+</li>
+<li>Specifications</li>
+<li>Feature Prototyping
+<ul>
+<li>Given a mini project description, they need to work together as designers and developers to add missing features from client requests</li>
+<li>Students take on one of multiple roles
+<ul>
+<li>Program manager - decompose the task into parallel, workable parts (ability to work simultaneously, and not be blocked or waiting on others)</li>
+<li>Back-end Engineer: collision/interaction between sprites</li>
+<li>Front-end Engineer: responsible for AI/programmed animations (e.g., asteroid collision animations)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Programming
+<ul>
+<li>Feature prototyping activity
+<ul>
+<li>Programmed animations</li>
+<li>Collisions</li>
+<li>Optionally include a brief programming lesson on how to do simple time-based animations</li>
+</ul>
+</li>
+<li>Clones - mob programming assignments with the teacher (teacher demo with student input)</li>
+</ul>
+</li>
+<li>Students begin design specification and interim reports</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 19.8719%;">Learning Objectives</td>
+<td style="width: 80.2708%;">
+<ul>
+<li>Demonstrate an understanding of the overall software design process</li>
+<li>Design and implement basic levels, models, and scripts for a program or app</li>
+<li>Describe CS concepts and how they are needed in programming (PRADA)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 19.8719%;">Resources</td>
+<td style="width: 80.2708%;">
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1xmMa02nfdt3uBG1tGiXYR93KTR6iKqdfk9H8Xz3rD2E/copy" target="_blank" rel="noopener noreferrer">Planning Template</a> (for students)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l5">Unit 3</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 20.1145%;">Lesson Summary</td>
+<td style="width: 79.8855%;">
+<ul>
+<li>HCI and UX
+<ul>
+<li>Understanding community needs</li>
+<li>Competitor analysis</li>
+<li>Survey</li>
+<li>Affordances and design</li>
+<li>User testing and prototyping
+<ul>
+<li>Optionally lead a brief discussion of paper prototyping - prepare students for playtest</li>
+<li>"The user is not like you"
+<ul>
+<li>Persona evaluation</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ethics</li>
+<li>Accessibility</li>
+<li>Who is the end user?</li>
+</ul>
+</li>
+<li>Finish design specification and interim report - present to class</li>
+<li>Begin coding final project</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 20.1145%;">Learning Objectives</td>
+<td style="width: 79.8855%;">
+<ul>
+<li>Understand human-computer interaction (HCI)</li>
+<li>Discuss ethics and entrepreneurship</li>
+<li>Explain challenges in software development</li>
+<li>Demonstrate an understanding of the overall software design process</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 20.1145%;">Vocabulary</td>
+<td style="width: 79.8855%;">
+<p>HCI, UX, accessibility</p>
+</td>
+</tr>
+<tr>
+<td style="width: 20.1145%;">Activities</td>
+<td style="width: 79.8855%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/se/hci-intro.ppt" target="_blank" rel="noopener noreferrer">HCI Introduction</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 20.1145%;">Resources</td>
+<td style="width: 79.8855%;">
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1xmMa02nfdt3uBG1tGiXYR93KTR6iKqdfk9H8Xz3rD2E/copy" target="_blank" rel="noopener noreferrer">Planning Template</a> (for students)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l6">Unit 4</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 20.6847%;">Lesson Summary</td>
+<td style="width: 79.3153%;">
+<ul>
+<li>Guest Speaker (user design/research)</li>
+<li>Potential impacts on users/ethics</li>
+<li>unintended consequences of design</li>
+<li>So you want to change something about your project (project management)</li>
+<li>Work on the project and submit a minimum target report</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 20.6847%;">Learning Objectives</td>
+<td style="width: 79.3153%;">
+<ul>
+<li>Explain challenges in software development</li>
+<li>Understand human-computer interaction (HCI)</li>
+<li>Discuss ethics and entrepreneurship</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 20.6847%;">Resources</td>
+<td style="width: 79.3153%;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/se/proj-manage.ppt" target="_blank" rel="noopener noreferrer">Project Management</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l7">Unit 5</h2>
+<table style="border-collapse: collapse; width: 100%; height: 741.281px;" border="1">
+<tbody>
+<tr style="height: 395.859px;">
+<td style="width: 21.1539%; height: 395.859px;">Lesson Summary</td>
+<td style="width: 78.9887%; height: 395.859px;">
+<ul>
+<li>SE
+<ul>
+<li>Revisit documentation
+<ul>
+<li>For users and also other programmers</li>
+<li>Encourage students to include documentation in their projects</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>HCI
+<ul>
+<li>Formal ethics statement</li>
+</ul>
+</li>
+<li>Programming
+<ul>
+<li>Using libraries and advanced programming topics</li>
+</ul>
+</li>
+<li>Continue to work on the project and prepare for playtesting</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 165.547px;">
+<td style="width: 21.1539%; height: 165.547px;">Learning Objectives</td>
+<td style="width: 78.9887%; height: 165.547px;">
+<ul>
+<li>Describe CS concepts and how they are needed in programming (PRADA)</li>
+<li>Discuss ethics and entrepreneurship</li>
+<li>Explain about challenges in software development</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 79.1562px;">
+<td style="width: 21.1539%; height: 79.1562px;">Resources</td>
+<td style="width: 78.9887%; height: 79.1562px;">
+<ul>
+<li><a href="https://curriculum.netsblox.org/9-week/se/docs.ppt" target="_blank" rel="noopener noreferrer">Documentation</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l8">Unit 6</h2>
+<table style="border-collapse: collapse; width: 100%; height: 304.266px;" border="1">
+<tbody>
+<tr style="height: 153.188px;">
+<td style="width: 22.0086%; height: 153.188px;">Lesson Summary</td>
+<td style="width: 78.134%; height: 153.188px;">
+<ul>
+<li>Project playtesting</li>
+<li>Interviewing and affinity diagramming
+<ul>
+<li>Based on prototyping experience</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 50.3594px;">
+<td style="width: 22.0086%; height: 50.3594px;">Learning Objectives</td>
+<td style="width: 78.134%; height: 50.3594px;">
+<ul>
+<li>Demonstrate an understanding of the overall software design process</li>
+<li>Design and implement a complete program that solves a community problem</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81l9">Unit 7</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 22.5784%;">Lesson Summary</td>
+<td style="width: 77.5642%;">
+<ul>
+<li>Make edits to project based on playtesting feedback</li>
+<li>Work on project video, final presentation, and report</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 22.5784%;">Learning Objectives</td>
+<td style="width: 77.5642%;">
+<ul>
+<li>Design and implement a complete program that solves a community problem</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gptv3el81la">Unit 8</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 22.8633%;">Lesson Summary</td>
+<td style="width: 77.2793%;">
+<ul>
+<li>Finish coding</li>
+<li>Make presentations in class</li>
+<li>Final presentation and report due</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 22.8633%;">Learning Objectives</td>
+<td style="width: 77.2793%;">
+<ul>
+<li>Design and implement a complete program that solves a community problem</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>CSF Virtual PD 2023</title>
         <author>
@@ -1895,7 +2329,7 @@
         <link href="https://csfrontiers.org/curriculum.html"/>
         <id>https://csfrontiers.org/curriculum.html</id>
 
-        <updated>2023-01-26T16:56:12-06:00</updated>
+        <updated>2023-02-22T19:53:58-06:00</updated>
             <summary>
                 <![CDATA[
                     The curriculum will consist of four 9-week modules. Each of the modules will be designed as a series of units,&hellip;
@@ -1931,6 +2365,7 @@
 <h2 id="mcetoc_1gnnuuds21t">Software Engineering/Entrepreneurship</h2>
 <figure class="post__image"><img loading="lazy"  src="https://csfrontiers.org/media/posts/5/car-laptop.jpeg" alt="" width="400" height="267" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/5/responsive/car-laptop-xs.jpeg 384w ,https://csfrontiers.org/media/posts/5/responsive/car-laptop-sm.jpeg 600w ,https://csfrontiers.org/media/posts/5/responsive/car-laptop-md.jpeg 768w ,https://csfrontiers.org/media/posts/5/responsive/car-laptop-lg.jpeg 1200w ,https://csfrontiers.org/media/posts/5/responsive/car-laptop-xl.jpeg 1600w"></figure>
 <p>This module will challenge students to address a local problem. We will follow an entrepreneurship approach, modeled after the successful EPICS community-based engineering design process, where students research an issue in their own community and design a program to help people solve it. Through these activities, students learn many valuable lessons including the role of community service in society, the significant impact that their engineering skills can have on their community, and that assisting others leads to their own substantial growth. The module will teach design, planning, code versioning, collaboration, and aspects of human-computer interaction (HCI) and usability. The final product will serve as a capstone project for the course. Industry volunteers and local relevant stakeholders will be recruited to provide feedback during periodic whole-class showcases.</p>
+<p style="text-align: center;"><a href="https://csfrontiers.org/software-engineering.html" class="btn">View Curriculum</a></p>
             ]]>
         </content>
     </entry>
@@ -2091,49 +2526,6 @@
 <p style="text-align: center;"><strong>Shuchi Grover</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Wipm1udPlTU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p style="margin-top: 0;">Teaching frontiers of CS in secondary school: gender equity, data science, transdisciplinary learning, and teacher professional development. In this keynote address, Dr. Shuchi Grover presents work on an NSF-funded project, 'Beyond CS Principles: Engaging Female High School Students in New Frontiers of Computing', a collaboration between Vanderbilt University, North Carolina State University and Looking Glass Ventures, CA. The keynote ends with a discussion of the Koli Calling 2020 paper: 'FIRST Principles to Design for Online, Synchronous High School CS Teacher Training and Curriculum Co-Design' by Shuchi Grover, Veronica Catete, Tiffany Barnes, Marnie Hill, Akos Ledeczi, and Brian Broll. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>CS Frontiers</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://csfrontiers.org/cs-frontiers.html"/>
-        <id>https://csfrontiers.org/cs-frontiers.html</id>
-
-        <updated>2023-01-27T11:53:58-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Goals Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  style="background-color: #afaad1; padding: 20px; border-radius: 40px;" src="https://csfrontiers.org/media/posts/1/CSF-4096.png" alt="" width="225" height="225" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/CSF-4096-xs.png 384w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-sm.png 600w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-md.png 768w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-lg.png 1200w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-xl.png 1600w"></figure>
-<h2>Goals</h2>
-<p>Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand access, especially for high school girls, to the most exciting and emerging frontiers of computing, such as distributed computation, the internet of things (IoT), cybersecurity, and machine learning, as well as other 21st century skills required to productively leverage computational methods and tools in virtually every profession. Creating pathways that stimulate high school learners' interest in advanced topics with the goal of building a diverse, gender-balanced, future-ready workforce is a crucial and impactful imperative addressed in this work. An experienced multi-disciplinary team of researchers, high school teachers, and industry partners will be involved in the design of a new, modular, open-access curriculum called Computer Science Frontiers (CSF) that provides an engaging introduction to these advanced topics in high school (that are currently accessible only to CS majors in college). To address the dire gender disparity in computing, the project will design and research the curriculum to engage female students. Through studying the impact of innovative computing tools and curricular units on learning, attitudes, interests, and collaboration of students (and especially young women), the project will advance discovery and understanding to aid the cause of broadening participation in technology-related careers as well as the future of work at the human-technology frontier. The open access modular design of the curricular materials and the dissemination activities will ensure wide adoption of the products of this research.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-covid-cases.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-covid-cases-thumbnail.jpeg" alt="" width="768" height="366"></a>
-<figcaption>Read and process information from online databases across the world. This project plots data for new COVID-19 cases and deaths for any state.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-hidden-figures.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-hidden-figures-thumbnail.jpeg" alt="" width="768" height="366"></a>
-<figcaption>Ask input from the user to control a simple search engine backed by TMDB (The Movie Database).</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-star-map.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-star-map-thumbnail.jpeg" alt="" width="768" height="366"></a>
-<figcaption>Explore the night sky by accessing detailed images from the Sloan Digital Sky Survey.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-street-view.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-street-view-thumbnail.jpeg" alt="" width="768" height="366"></a>
-<figcaption>Leverage the power of Google Maps and various location services to create your own custom Google Street View interface.</figcaption>
-</figure>
-</div></div>
-<p>The project leverages <a href="https://netsblox.org/" target="_blank" rel="noopener">NetsBlox</a>, a powerful yet easy-to-use visual programming environment that has been shown to increase engagement and interest in computing. Additionally, NetsBlox supports effective collaboration while facilitating learning of distributed computing, networking, and cybersecurity in informal settings. Early phases of the project will involve design and refinement of curricular modules through co-design workshops with seven participating teachers, summer camps with students, and pilot implementations in Tennessee and North Carolina, leading to full classroom implementations in Year 3 by the high school teachers. Data collected through surveys, student portfolios, teacher interviews, and digital logs from NetsBlox will be analyzed. Research findings will help in understanding if and how advanced computing methods alongside key competencies can be introduced in high school; how pedagogies involving project-based activities around real-world, multidisciplinary problems work to increase female students' interests in computing; and which advanced topics work better than others in terms of difficulty level and engagement.</p>
-<p>This project is funded by the Innovative Technology Experiences for Students and Teachers (ITEST) program of the National Science Foundation, which supports projects that build understandings of practices, program elements, contexts and processes contributing to increasing students' knowledge and interest in science, technology, engineering, and mathematics (STEM) and information and communication technology (ICT) careers.</p>
-<h2>Affiliates</h2>
-<p style="text-align: center;"><a href="https://www.ncsu.edu/" target="_blank" rel="noopener noreferrer"><img loading="lazy" style="border-radius: 256px;" src="https://csfrontiers.org/media/posts/1/nc-state-banner-2.jpeg" alt="" width="251" height="41" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-xs.jpeg 384w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-sm.jpeg 600w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-md.jpeg 768w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-lg.jpeg 1200w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-xl.jpeg 1600w"></a></p>
-<p style="text-align: center;"><a href="https://www.vanderbilt.edu/" target="_blank" rel="noopener noreferrer"><img loading="lazy" style="border-radius: 256px;" src="https://csfrontiers.org/media/posts/1/vandy-banner.jpeg" alt="" width="364" height="42" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/vandy-banner-xs.jpeg 384w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-sm.jpeg 600w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-md.jpeg 768w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-lg.jpeg 1200w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-xl.jpeg 1600w"></a></p>
-<p style="text-align: center;"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/looking-glass-logo.png" alt="" width="192" height="59" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-xs.png 384w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-sm.png 600w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-md.png 768w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-lg.png 1200w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-xl.png 1600w"></p>
-<p style="text-align: center;"><a href="https://www.nsf.gov/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/nsf-logo.png" alt="" width="113" height="114" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/nsf-logo-xs.png 384w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-sm.png 600w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-md.png 768w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-lg.png 1200w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-xl.png 1600w"></a></p>
             ]]>
         </content>
     </entry>
