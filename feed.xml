@@ -444,22 +444,6 @@
         </content>
     </entry>
     <entry>
-        <title>CSF Virtual PD 2023</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://csfrontiers.org/csf-virtual-pd-2023.html"/>
-        <id>https://csfrontiers.org/csf-virtual-pd-2023.html</id>
-
-        <updated>2023-02-10T11:10:16-06:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><a href="https://forms.gle/3C9WymofvbCB7tNV7" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://csfrontiers.org/media/posts/10//pd-flyer.png" alt="" width="816" height="1046" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/10//responsive/pd-flyer-xs.png 384w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-sm.png 600w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-md.png 768w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-lg.png 1200w ,https://csfrontiers.org/media/posts/10//responsive/pd-flyer-xl.png 1600w"></figure></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>People</title>
         <author>
             <name>admin</name>
@@ -2526,6 +2510,49 @@
 <p style="text-align: center;"><strong>Shuchi Grover</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Wipm1udPlTU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p style="margin-top: 0;">Teaching frontiers of CS in secondary school: gender equity, data science, transdisciplinary learning, and teacher professional development. In this keynote address, Dr. Shuchi Grover presents work on an NSF-funded project, 'Beyond CS Principles: Engaging Female High School Students in New Frontiers of Computing', a collaboration between Vanderbilt University, North Carolina State University and Looking Glass Ventures, CA. The keynote ends with a discussion of the Koli Calling 2020 paper: 'FIRST Principles to Design for Online, Synchronous High School CS Teacher Training and Curriculum Co-Design' by Shuchi Grover, Veronica Catete, Tiffany Barnes, Marnie Hill, Akos Ledeczi, and Brian Broll. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CS Frontiers</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://csfrontiers.org/cs-frontiers.html"/>
+        <id>https://csfrontiers.org/cs-frontiers.html</id>
+
+        <updated>2023-01-27T11:53:58-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Goals Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  style="background-color: #afaad1; padding: 20px; border-radius: 40px;" src="https://csfrontiers.org/media/posts/1/CSF-4096.png" alt="" width="225" height="225" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/CSF-4096-xs.png 384w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-sm.png 600w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-md.png 768w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-lg.png 1200w ,https://csfrontiers.org/media/posts/1/responsive/CSF-4096-xl.png 1600w"></figure>
+<h2>Goals</h2>
+<p>Building on the foundations set by the AP Computer Science (CS) Principles course, this project seeks to dramatically expand access, especially for high school girls, to the most exciting and emerging frontiers of computing, such as distributed computation, the internet of things (IoT), cybersecurity, and machine learning, as well as other 21st century skills required to productively leverage computational methods and tools in virtually every profession. Creating pathways that stimulate high school learners' interest in advanced topics with the goal of building a diverse, gender-balanced, future-ready workforce is a crucial and impactful imperative addressed in this work. An experienced multi-disciplinary team of researchers, high school teachers, and industry partners will be involved in the design of a new, modular, open-access curriculum called Computer Science Frontiers (CSF) that provides an engaging introduction to these advanced topics in high school (that are currently accessible only to CS majors in college). To address the dire gender disparity in computing, the project will design and research the curriculum to engage female students. Through studying the impact of innovative computing tools and curricular units on learning, attitudes, interests, and collaboration of students (and especially young women), the project will advance discovery and understanding to aid the cause of broadening participation in technology-related careers as well as the future of work at the human-technology frontier. The open access modular design of the curricular materials and the dissemination activities will ensure wide adoption of the products of this research.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-covid-cases.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-covid-cases-thumbnail.jpeg" alt="" width="768" height="366"></a>
+<figcaption>Read and process information from online databases across the world. This project plots data for new COVID-19 cases and deaths for any state.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-hidden-figures.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-hidden-figures-thumbnail.jpeg" alt="" width="768" height="366"></a>
+<figcaption>Ask input from the user to control a simple search engine backed by TMDB (The Movie Database).</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-star-map.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-star-map-thumbnail.jpeg" alt="" width="768" height="366"></a>
+<figcaption>Explore the night sky by accessing detailed images from the Sloan Digital Sky Survey.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://csfrontiers.org/media/posts/1/gallery/screenshot-street-view.jpeg" data-size="1920x914"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/gallery/screenshot-street-view-thumbnail.jpeg" alt="" width="768" height="366"></a>
+<figcaption>Leverage the power of Google Maps and various location services to create your own custom Google Street View interface.</figcaption>
+</figure>
+</div></div>
+<p>The project leverages <a href="https://netsblox.org/" target="_blank" rel="noopener">NetsBlox</a>, a powerful yet easy-to-use visual programming environment that has been shown to increase engagement and interest in computing. Additionally, NetsBlox supports effective collaboration while facilitating learning of distributed computing, networking, and cybersecurity in informal settings. Early phases of the project will involve design and refinement of curricular modules through co-design workshops with seven participating teachers, summer camps with students, and pilot implementations in Tennessee and North Carolina, leading to full classroom implementations in Year 3 by the high school teachers. Data collected through surveys, student portfolios, teacher interviews, and digital logs from NetsBlox will be analyzed. Research findings will help in understanding if and how advanced computing methods alongside key competencies can be introduced in high school; how pedagogies involving project-based activities around real-world, multidisciplinary problems work to increase female students' interests in computing; and which advanced topics work better than others in terms of difficulty level and engagement.</p>
+<p>This project is funded by the Innovative Technology Experiences for Students and Teachers (ITEST) program of the National Science Foundation, which supports projects that build understandings of practices, program elements, contexts and processes contributing to increasing students' knowledge and interest in science, technology, engineering, and mathematics (STEM) and information and communication technology (ICT) careers.</p>
+<h2>Affiliates</h2>
+<p style="text-align: center;"><a href="https://www.ncsu.edu/" target="_blank" rel="noopener noreferrer"><img loading="lazy" style="border-radius: 256px;" src="https://csfrontiers.org/media/posts/1/nc-state-banner-2.jpeg" alt="" width="251" height="41" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-xs.jpeg 384w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-sm.jpeg 600w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-md.jpeg 768w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-lg.jpeg 1200w ,https://csfrontiers.org/media/posts/1/responsive/nc-state-banner-2-xl.jpeg 1600w"></a></p>
+<p style="text-align: center;"><a href="https://www.vanderbilt.edu/" target="_blank" rel="noopener noreferrer"><img loading="lazy" style="border-radius: 256px;" src="https://csfrontiers.org/media/posts/1/vandy-banner.jpeg" alt="" width="364" height="42" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/vandy-banner-xs.jpeg 384w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-sm.jpeg 600w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-md.jpeg 768w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-lg.jpeg 1200w ,https://csfrontiers.org/media/posts/1/responsive/vandy-banner-xl.jpeg 1600w"></a></p>
+<p style="text-align: center;"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/looking-glass-logo.png" alt="" width="192" height="59" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-xs.png 384w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-sm.png 600w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-md.png 768w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-lg.png 1200w ,https://csfrontiers.org/media/posts/1/responsive/looking-glass-logo-xl.png 1600w"></p>
+<p style="text-align: center;"><a href="https://www.nsf.gov/" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://csfrontiers.org/media/posts/1/nsf-logo.png" alt="" width="113" height="114" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://csfrontiers.org/media/posts/1/responsive/nsf-logo-xs.png 384w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-sm.png 600w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-md.png 768w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-lg.png 1200w ,https://csfrontiers.org/media/posts/1/responsive/nsf-logo-xl.png 1600w"></a></p>
             ]]>
         </content>
     </entry>
